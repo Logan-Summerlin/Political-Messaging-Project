@@ -18,7 +18,7 @@
 - **Format:** message_id, source, source_url, date, topic, issue_area, message_type, wording, support_pct, oppose_pct, net_score, preference_effect, effect_scale, sample_size, methodology, population, moe, tags, notes
 
 ### `data/processed/referendums.csv`
-- **199 rows**
+- **198 rows**
 - **Sources:** Ballotpedia, Wikipedia
 - **Years:** 2024–2025
 - **States:** 9
