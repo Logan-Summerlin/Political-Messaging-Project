@@ -2,7 +2,7 @@
 
 **A structured, queryable dataset of US political issue polling, message testing A/B results, and ballot measure outcomes.** Exact wording, support percentages, methodology, and source links. Designed for message strategy, framing analysis, and campaign research.
 
-**3,369 total data points** across 3 unified tables — 216 tested messages, 5,030 issue poll questions, 199 ballot measures — spanning **1972–2026** from **10+ sources**.
+**3,369 total data points** across 3 unified tables — 216 tested messages, 5,030 issue poll questions, 198 ballot measures — spanning **1972–2026** from **10+ sources**.
 
 ## 📁 Directory Structure
 
@@ -15,7 +15,7 @@ us-political-messaging-dataset/
 │   ├── processed/                     # Cleaned, normalized datasets
 │   │   ├── messages.csv               #   216 rows — A/B message tests
 │   │   ├── issues.csv                 # 5,030 rows — issue polling
-│   │   ├── referendums.csv            #   199 rows — ballot measures
+│   │   ├── referendums.csv            #   198 rows — ballot measures
 │   │   ├── gss_issues.csv             # 1,303 rows — GSS extracted (staging)
 │   │   ├── dfp_new_messages.csv       #    95 rows — DFP staging
 │   │   └── dfp_new_issues.csv         # 1,732 rows — DFP staging
@@ -68,7 +68,7 @@ us-political-messaging-dataset/
 |---|---|---|---|---|
 | **messages.csv** | 216 | 2024–2026 | Blueprint (70), Navigator (53), DFP (93) | support%, preference_effect (MaxDiff) |
 | **issues.csv** | 5,030 | 1972–2026 | Gallup (1,830), DFP (1,731), GSS (1,303), Pew (150) | support%, oppose%, net |
-| **referendums.csv** | 199 | 2024–2025 | Ballotpedia, Wikipedia (9 states) | support%, threshold, margin |
+| **referendums.csv** | 198 | 2024–2025 | Ballotpedia, Wikipedia (9 states) | support%, threshold, margin |
 
 ### Message Testing
 
@@ -89,7 +89,7 @@ Seven sources, dominated by three:
 
 ### Ballot Measures
 
-199 measures from 9 states, 2024–2025. 592 more raw records from Wikipedia and 600 from California UC Law still unprocessed.
+198 measures from 9 states, 2024–2025. 592 more raw records from Wikipedia and 600 from California UC Law still unprocessed.
 
 ## 📐 Schema
 
