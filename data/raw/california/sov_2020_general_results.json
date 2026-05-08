@@ -1,0 +1,98 @@
+{
+  "Proposition 14": {
+    "yes": 8588618,
+    "no": 8222154,
+    "total": 16810772,
+    "yes_pct": 51.1,
+    "no_pct": 48.9,
+    "passed": true
+  },
+  "Proposition 15": {
+    "yes": 8213054,
+    "no": 8885569,
+    "total": 17098623,
+    "yes_pct": 48.0,
+    "no_pct": 52.0,
+    "passed": false
+  },
+  "Proposition 16": {
+    "yes": 7217064,
+    "no": 9655595,
+    "total": 16872659,
+    "yes_pct": 42.8,
+    "no_pct": 57.2,
+    "passed": false
+  },
+  "Proposition 17": {
+    "yes": 9985568,
+    "no": 7069173,
+    "total": 17054741,
+    "yes_pct": 58.6,
+    "no_pct": 41.4,
+    "passed": true
+  },
+  "Proposition 18": {
+    "yes": 7514317,
+    "no": 9577807,
+    "total": 17092124,
+    "yes_pct": 44.0,
+    "no_pct": 56.0,
+    "passed": false
+  },
+  "Proposition 19": {
+    "yes": 8545818,
+    "no": 8176105,
+    "total": 16721923,
+    "yes_pct": 51.1,
+    "no_pct": 48.9,
+    "passed": true
+  },
+  "Proposition 20": {
+    "yes": 6385839,
+    "no": 10294058,
+    "total": 16679897,
+    "yes_pct": 38.3,
+    "no_pct": 61.7,
+    "passed": false
+  },
+  "Proposition 21": {
+    "yes": 6771298,
+    "no": 10095206,
+    "total": 16866504,
+    "yes_pct": 40.1,
+    "no_pct": 59.9,
+    "passed": false
+  },
+  "Proposition 22": {
+    "yes": 9958425,
+    "no": 7027820,
+    "total": 16986245,
+    "yes_pct": 58.6,
+    "no_pct": 41.4,
+    "passed": true
+  },
+  "Proposition 23": {
+    "yes": 6161457,
+    "no": 10681171,
+    "total": 16842628,
+    "yes_pct": 36.6,
+    "no_pct": 63.4,
+    "passed": false
+  },
+  "Proposition 24": {
+    "yes": 9384625,
+    "no": 7305431,
+    "total": 16690056,
+    "yes_pct": 56.2,
+    "no_pct": 43.8,
+    "passed": true
+  },
+  "Proposition 25": {
+    "yes": 7232380,
+    "no": 9358226,
+    "total": 16590606,
+    "yes_pct": 43.6,
+    "no_pct": 56.4,
+    "passed": false
+  }
+}

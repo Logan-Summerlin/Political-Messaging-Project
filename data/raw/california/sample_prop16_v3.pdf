@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><!-- inj yui3-seed: --><script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/yui/3.6.0/yui/yui-min.js'></script><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><!-- Adobe Analytics --><script type='text/javascript' src='https://assets.adobedtm.com/4a848ae9611a/d0e96722185b/launch-d525bb0064d8.min.js'></script><script type='text/javascript' src=/assets/nr_browser_production.js></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+        body {
+            font-family: "Arial";
+        }
+    </style>
+    <script type="text/javascript">
+    window.awsWafCookieDomainList = [];
+    window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AGWLCxClxQr388AgLoprKk3AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM7eTZgon3BJvyrj4AAgEQgDtvrbs0CNHZKksDCbiv4ZjHJgULt+tOSRCBnl4lpsm+hgjYtT2QKI2xNLkE1MrFH1ebYYBmG+LRpAjdjQ==",
+          "iv":"CgAE2DdE5QAACYu+",
+          "context":"DInjIFDNUPB5Mqp9BBKfGj+Ta92hjb8w3uj43S2OsAvEEEIt2QDXSB1pf5YLkVI2UfzZRGGaxqIVwETnHmspPln0Uj/EsEuIlq70H3H/jyJzdVqNrh/a0Xq80PaF8yNRVoVxTVDUcI7qaYXr8qbgOhlcvLjmmE1Q3C0W+oSpvrom2MeDqir3J/JSogXQmosl/ORHivPLhKgB5KxIDLaxhzNECeHSdMivtMhFDnKsE29dqwzIlEOUD2DshZx2UveT4AogU9Na/aDONchhHcI90Rg+MHmkDQFe9hBfi1e+fJ5c6wDx8I8npCif5QRjx3gWUdXikin3Z+8hd/aV20dtedDGQLT0FuIgjRPRfDED/j+VMnK4Z8A5XZRl"
+};
+    </script>
+    <script src="https://706f4033c08d.7e9e77ab.us-west-1.token.awswaf.com/706f4033c08d/527833e1eb9e/f0c7aede8f2c/challenge.js"></script>
+</head>
+<body>
+    <div id="challenge-container"></div>
+    <script type="text/javascript">
+        AwsWafIntegration.saveReferrer();
+        AwsWafIntegration.checkForceRefresh().then((forceRefresh) => {
+            if (forceRefresh) {
+                AwsWafIntegration.forceRefreshToken().then(() => {
+                    window.location.reload(true);
+                });
+            } else {
+                AwsWafIntegration.getToken().then(() => {
+                    window.location.reload(true);
+                });
+            }
+        });
+    </script>
+    <noscript>
+        <h1>JavaScript is disabled</h1>
+        In order to continue, we need to verify that you're not a robot.
+        This requires JavaScript. Enable JavaScript and then reload the page.
+    </noscript>
+<script type='text/javascript' src='/assets/scripts/bpbootstrap-20160726.pack.js'></script><script type='text/javascript'>BPBootstrap.init({appendCookie:''})</script></body>
+</html>

@@ -1,0 +1,20 @@
+# Large academic data files — too large for GitHub (>100 MB per file limit)
+# Download instructions in data/raw/datasets_README.md
+
+# GSS (General Social Survey) — ~791 MB
+data/raw/gss/*.dta
+data/raw/gss/*.zip
+data/raw/gss/stata_extracted/*.dta
+
+# CES (Cooperative Election Study) — ~714 MB
+data/raw/ces/*.dta
+data/raw/ces/*.rds
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

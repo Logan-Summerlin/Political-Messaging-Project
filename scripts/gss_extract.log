@@ -1,0 +1,76 @@
+Reading GSS data...
+Loaded 75699 rows, 54 columns
+  natenvir        climate              -> 34 year-groups
+  natheal         healthcare           -> 34 year-groups
+  natcity         urban                -> 34 year-groups
+  natcrime        crime                -> 34 year-groups
+  natdrug         drugs                -> 34 year-groups
+  nateduc         education            -> 34 year-groups
+  natrace         race                 -> 34 year-groups
+  natarms         foreign_policy       -> 34 year-groups
+  nataid          foreign_policy       -> 34 year-groups
+  natfare         welfare              -> 34 year-groups
+  natroad         infrastructure       -> 25 year-groups
+  natsoc          social_security      -> 25 year-groups
+  natmass         infrastructure       -> 24 year-groups
+  natpark         environment          -> 24 year-groups
+  natchld         family               -> 13 year-groups
+  natsci          technology           -> 12 year-groups
+  natenrgy        climate              -> 8 year-groups
+  natarts         culture              -> 1 year-groups
+  gunlaw          guns                 -> 32 year-groups
+  cappun          crime                -> 33 year-groups
+  abany           abortion             -> 29 year-groups
+  abdefect        abortion             -> 34 year-groups
+  abhlth          abortion             -> 34 year-groups
+  abpoor          abortion             -> 34 year-groups
+  abrape          abortion             -> 34 year-groups
+  absingle        abortion             -> 34 year-groups
+  abnomore        abortion             -> 34 year-groups
+  SKIP immigrac: not in dataset
+  helpnot         welfare              -> 26 year-groups
+  helpsick        healthcare           -> 26 year-groups
+  helpblk         race                 -> 26 year-groups
+  taxspend        economy              -> 1 year-groups
+  conarmy         foreign_policy       -> 33 year-groups
+  conjudge        government           -> 33 year-groups
+  conpress        media                -> 33 year-groups
+  conlegis        government           -> 33 year-groups
+  conbus          economy              -> 33 year-groups
+  coneduc         education            -> 33 year-groups
+  conmedic        healthcare           -> 33 year-groups
+  SKIP conrelig: not in dataset
+  consci          technology           -> 33 year-groups
+  contv           media                -> 33 year-groups
+  conlabor        economy              -> 33 year-groups
+  confed          government           -> 33 year-groups
+  confinan        economy              -> 31 year-groups
+  conclerg        religion             -> 33 year-groups
+  eqwlth          economy              -> 27 year-groups
+
+Total GSS rows extracted: 1303
+Saved to: /home/agentbot/workspace/us-political-messaging-dataset/data/processed/gss_issues.csv
+Year range: 1972 - 2024 (35 years)
+
+By topic:
+  abortion             233
+  economy              125
+  foreign_policy       101
+  government           99
+  healthcare           93
+  crime                67
+  education            67
+  media                66
+  race                 60
+  welfare              60
+  infrastructure       49
+  technology           45
+  climate              42
+  urban                34
+  drugs                34
+  religion             33
+  guns                 32
+  social_security      25
+  environment          24
+  family               13
+  culture              1

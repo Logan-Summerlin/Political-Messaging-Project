@@ -1,0 +1,802 @@
+[
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "ALLOWS FOR JURY TRIALS IN CHILD-CUSTODY AND DEPENDENT-CHILD DETERMINATIONS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2166",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3167&context=ca_ballot_inits",
+    "article_id": "2166"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "AUTHORIZES NEW TYPES OF GAMBLING. INITIATIVE CONSTITUTIONAL AND STATUTORY AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2162",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3163&context=ca_ballot_inits",
+    "article_id": "2162"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "AUTHORIZES STATE REGULATION OF KIDNEY DIALYSIS CLINICS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2161",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3164&context=ca_ballot_inits",
+    "article_id": "2161"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "CHANGES EMPLOYMENT CLASSIFICATION RULES FOR APP-BASED TRANSPORTATION AND DELIVERY DRIVERS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2165",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3160&context=ca_ballot_inits",
+    "article_id": "2165"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "DECRIMINALIZES PSILOCYBIN MUSHROOMS. AUTHORIZES DISMISSAL OF PRIOR PSILOCYBIN-RELATED CONVICTIONS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2164",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3161&context=ca_ballot_inits",
+    "article_id": "2164"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "PROHIBITS SALE OR REGISTRATION OF GAS-ONLY AND DIESEL-ONLY PASSENGER VEHICLES AND LIGHT TRUCKS MANUFACTURED AFTER 2020. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2168",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3165&context=ca_ballot_inits",
+    "article_id": "2168"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "REPLACES ALL MEMBERS OF CALIFORNIA AIR RESOURCES BOARD AND REALLOCATES ITS FUNDING IF CERTAIN AIR QUALITY STANDARDS ARE NOT MET. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2167",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3166&context=ca_ballot_inits",
+    "article_id": "2167"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "REQUIRES STATE REGULATIONS TO REDUCE PLASTIC WASTE, TAX PRODUCERS OF SINGLE-USE PLASTICS, AND FUND RECYCLING AND ENVIRONMENTAL PROGRAMS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2163",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3162&context=ca_ballot_inits",
+    "article_id": "2163"
+  },
+  {
+    "type": "initiative",
+    "year": "2020",
+    "title": "REQUIRES VOTE ON WHETHER CALIFORNIA SHOULD BECOME A SEPARATE COUNTRY. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2169",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3168&context=ca_ballot_inits",
+    "article_id": "2169"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "ADJUSTS LIMITATIONS IN MEDICAL NEGLIGENCE CASES. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2154",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3154&context=ca_ballot_inits",
+    "article_id": "2154"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "AMENDS CONSUMER PRIVACY LAWS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2152",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3156&context=ca_ballot_inits",
+    "article_id": "2152"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "AUTHORIZES BONDS TO CONTINUE FUNDING STEM CELL AND OTHER MEDICAL RESEARCH. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2151",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3157&context=ca_ballot_inits",
+    "article_id": "2151"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Authorizes Bonds To Fund Projects For Wildfire Prevention, Safe Drinking Water, And Protecting Wildlife And Lands From Climate Risks. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2145",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3143&context=ca_ballot_inits",
+    "article_id": "2145"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "AUTHORIZES ELECTRONIC SIGNATURE GATHERING FOR INITIATIVE, REFERENDUM, AND RECALL PETITIONS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2160",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3148&context=ca_ballot_inits",
+    "article_id": "2160"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "AUTHORIZES STATE REGULATION OF KIDNEY DIALYSIS CLINICS. ESTABLISHES MINIMUM STAFFING AND OTHER REQUIREMENTS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2149",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3159&context=ca_ballot_inits",
+    "article_id": "2149"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Changes Requirements For Transferring Property Tax Base To Replacement Property. Expands Business Property Reassessment.Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2147",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3141&context=ca_ballot_inits",
+    "article_id": "2147"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Changes Requirements For Transferring Property Tax Base To Replacement Property. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2146",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3142&context=ca_ballot_inits",
+    "article_id": "2146"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "DECRIMINALIZES PSILOCYBIN MUSHROOMS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2155",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3153&context=ca_ballot_inits",
+    "article_id": "2155"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "EXPANDS LEGALIZATION OF CANNABIS AND HEMP. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2159",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3149&context=ca_ballot_inits",
+    "article_id": "2159"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "EXPANDS LEGALIZATION OF CANNABIS AND HEMP. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2158",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3150&context=ca_ballot_inits",
+    "article_id": "2158"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Expands Local Governments\u2019 Authority To Enact Rent Control On Residential Property. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2139",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3138&context=ca_ballot_inits",
+    "article_id": "2139"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "INCREASES FUNDING FOR PUBLIC SCHOOLS, COMMUNITY COLLEGES, AND LOCAL GOVERNMENT SERVICES BY CHANGING TAX ASSESSMENT OF COMMERCIAL AND INDUSTRIAL PROPERTY. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2148",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3147&context=ca_ballot_inits",
+    "article_id": "2148"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "LIMITS DURATION OF SPOUSAL SUPPORT AFTER DIVORCE OR LEGAL SEPARATION TO NO MORE THAN FIVE YEARS. INITIATIVE STATUTE",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2140",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3139&context=ca_ballot_inits",
+    "article_id": "2140"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Referendum Challenging 2019 Law Increasing State Oversight of Medical Exemptions to School Vaccination Requirements.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2142",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3146&context=ca_ballot_inits",
+    "article_id": "2142"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Referendum Challenging 2019 Law Increasing State Oversight of Medical Exemptions to School Vaccination Requirements.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2143",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3145&context=ca_ballot_inits",
+    "article_id": "2143"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Removes Responsibility and Funding for State Highway Construction and Maintenance from State. Transfers Such Responsibility and Funding to Individual Local Governments. Ends State High-Speed Rail Project. Constitutional Amendment",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2141",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3140&context=ca_ballot_inits",
+    "article_id": "2141"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "REPLACES STATE SENATE AND ASSEMBLY WITH SINGLE-HOUSE LEGISLATURE; INCREASES NUMBER OF LEGISLATORS. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2157",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3151&context=ca_ballot_inits",
+    "article_id": "2157"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "REQUIRES ARREST FOR SPECIFIED OFFENSES AND, IF CONVICTED, DETENTION OR INTERVENTION PROGRAMS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2150",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3158&context=ca_ballot_inits",
+    "article_id": "2150"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "REQUIRES ENACTMENT OF MEASURES TO REDUCE THE USE OF NON-ORGANIC FUNGICIDES, HERBICIDES, INSECTICIDES, AND FUMIGANTS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2153",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3155&context=ca_ballot_inits",
+    "article_id": "2153"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "Requires Monetary Bail. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2144",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3144&context=ca_ballot_inits",
+    "article_id": "2144"
+  },
+  {
+    "type": "initiative",
+    "year": "2019",
+    "title": "REQUIRES RANKED-CHOICE VOTING SYSTEM FOR FEDERAL AND STATE ELECTIONS. RESTRUCTURES STATE SENATE TO MULTI-MEMBER DISTRICTS. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2156",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3152&context=ca_ballot_inits",
+    "article_id": "2156"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Allow New Types of Gambling in California. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2131",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3130&context=ca_ballot_inits",
+    "article_id": "2131"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "ALLOWS FOR JURY TRIALS IN CHILD-CUSTODY AND DEPENDENT-CHILD DETERMINATIONS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2127",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3126&context=ca_ballot_inits",
+    "article_id": "2127"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Allows For Jury Trials in Child-Custody and Dependent-Child Determinations. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2138",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3137&context=ca_ballot_inits",
+    "article_id": "2138"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "AMENDS THREE STRIKES SENTENCING LAW FOR REPEAT OFFENDERS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2119",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3118&context=ca_ballot_inits",
+    "article_id": "2119"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Changes Requirements for Certain Property Owners When Transferring Their Property Tax Base to Replacement Property. Initiative Constitutional Amendment and Statute",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2134",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3133&context=ca_ballot_inits",
+    "article_id": "2134"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Citizenship Voting Requirement",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2133",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3132&context=ca_ballot_inits",
+    "article_id": "2133"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Eliminates Certain 2011 Criminal Justice Measures. Initiative Statute",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2136",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3135&context=ca_ballot_inits",
+    "article_id": "2136"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "ELIMINATES CERTAIN LIABILITY FOR LEAD-PAINT MANUFACTURERS. AUTHORIZES BONDS TO FUND STRUCTURAL AND ENVIRONMENTAL REMEDIATION PROJECTS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2122",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3121&context=ca_ballot_inits",
+    "article_id": "2122"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "ESTABLISHES PUBLIC HEALTH FUND BY ENACTING DEDICATED STATEWIDE TAX ON DISTRIBUTION OF SUGAR-SWEETENED DRINKS. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2132",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3131&context=ca_ballot_inits",
+    "article_id": "2132"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "EXPANDS REQUIREMENT FOR SUPERMAJORITY APPROVAL TO ENACT NEW LOCAL GOVERNMENT REVENUE MEASURES. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2124",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3123&context=ca_ballot_inits",
+    "article_id": "2124"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "EXPANDS REQUIREMENT FOR SUPERMAJORITY APPROVAL TO ENACT NEW REVENUE MEASURES. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2123",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3122&context=ca_ballot_inits",
+    "article_id": "2123"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "INCREASES FUNDING FOR HOSPITALS, CLINICS, AND PRIMARY CARE PROVIDERS SERVING LOW-INCOME PATIENTS BY INCREASING TAX ON PERSONAL INCOME OVER $1 MILLION. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2120",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3119&context=ca_ballot_inits",
+    "article_id": "2120"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "INCREASES THE NUMBER OF CANDIDATES IN GENERAL ELECTIONS FOR STATE AND CONGRESSIONAL OFFICES. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2126",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3125&context=ca_ballot_inits",
+    "article_id": "2126"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "PROHIBITS HEALTH INSURANCE COMPANIES WITH SPECIFIED FINANCIAL RESERVES FROM INCREASING RATES. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2121",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3120&context=ca_ballot_inits",
+    "article_id": "2121"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Referendum to Overturn a 2018 Law that Replaced Money Bail System with a System Based on Public Safety Risk.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2137",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3136&context=ca_ballot_inits",
+    "article_id": "2137"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "REGULATES VARIOUS SUBSTANCES AND PRACTICES RELATED TO AGRICULTURE, CONSUMER PRODUCTS, AND HEALTH. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2125",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3124&context=ca_ballot_inits",
+    "article_id": "2125"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "Repeals Law Requiring Certain Law Enforcement to Collect and Report Specified Data on Stops and Searches. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2135",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3134&context=ca_ballot_inits",
+    "article_id": "2135"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "REQUIRES A VOTE IN 2021 ON WHETHER CALIFORNIA SHOULD BECOME AN INDEPENDENT COUNTRY. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2129",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3128&context=ca_ballot_inits",
+    "article_id": "2129"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "REQUIRES CERTAIN COMMERCIAL AND INDUSTRIAL REAL PROPERTY TO BE TAXED BASED ON FAIR-MARKET VALUE. DEDICATES PORTION OF ANY INCREASED REVENUE TO EDUCATION AND LOCAL SERVICES. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2128",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3127&context=ca_ballot_inits",
+    "article_id": "2128"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "REQUIRES USE OF STATE AND LOCAL LAW-ENFORCEMENT RESOURCES FOR FEDERAL IMMIGRATION PURPOSES. RESTRICTS VOTER REGISTRATION PROCESS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2130",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3129&context=ca_ballot_inits",
+    "article_id": "2130"
+  },
+  {
+    "type": "initiative",
+    "year": "2018",
+    "title": "RESTRICTS PAROLE FOR NON-VIOLENT OFFENDERS. AUTHORIZES FELONY SENTENCES FOR CERTAIN OFFENSES CURRENTLY TREATED ONLY AS MISDEMEANORS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2117",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3116&context=ca_ballot_inits",
+    "article_id": "2117"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "AUTHORIZES BONDS FUNDING CONSTRUCTION AT HOSPITALS PROVIDING CHILDREN\u2019S HEALTH CARE. INITIATIVE STATUTE",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2118",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3117&context=ca_ballot_inits",
+    "article_id": "2118"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Authorizes Bonds to Fund Projects for Drinking Water and Water Quality Improvements, to Reduce Environmental Vulnerability to Climate Change, and For State and Local Parks. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2080",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3079&context=ca_ballot_inits",
+    "article_id": "2080"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Authorizes Bonds to Fund Projects for Water Supply and Quality, Watershed, Fish, Wildlife, Water Conveyance, and Groundwater Sustainability and Storage. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2083",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3082&context=ca_ballot_inits",
+    "article_id": "2083"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Authorizes State Regulation of Kidney Dialysis Clinics. Establishes Minimum Staffing Requirements and Limits Charges for Patient Care. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2088",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3087&context=ca_ballot_inits",
+    "article_id": "2088"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Authorizes State Regulation of Kidney Dialysis Clinics. Limits Charges for Patient Care. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2087",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3086&context=ca_ballot_inits",
+    "article_id": "2087"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "California Autonomy from Federal Government. Initiative Constitutional Amendment and Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2078",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3077&context=ca_ballot_inits",
+    "article_id": "2078"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "California Nationhood. Initiative Constitutional Amendment and Statute",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2072",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3071&context=ca_ballot_inits",
+    "article_id": "2072"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Changes Requirements for Certain Property Owners to Transfer Their Property Tax Base to Replacement Property. Initiative Constitutional Amendment and Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2084",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3083&context=ca_ballot_inits",
+    "article_id": "2084"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Changes Requirements for Certain Property Owners to Transfer Their Property Tax Base to Replacement Property. Initiative Constitutional Amendment and Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2086",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3085&context=ca_ballot_inits",
+    "article_id": "2086"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Changes Requirements for Certain Property Owners to Transfer Their Property Tax Base to Replacement Property. Initiative Constitutional Amendment and Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2085",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3084&context=ca_ballot_inits",
+    "article_id": "2085"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Changes the Rules of Professional Conduct for Attorneys. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2089",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3088&context=ca_ballot_inits",
+    "article_id": "2089"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Child Custody Determinations. Jury Trial. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2074",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3073&context=ca_ballot_inits",
+    "article_id": "2074"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "CREATION OF NEW UNIVERSITY OF CALIFORNIA ONLINE. INITIATIVE CONSTITUTIONAL AMENDMENT",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2098",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3097&context=ca_ballot_inits",
+    "article_id": "2098"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Criminalizes Abortion as First-Degree Murder and Expands Definition of Abortion to Include Certain Forms of Birth Control, Some Medical Research, and Many in Vitro Fertilization Procedures. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2081",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3080&context=ca_ballot_inits",
+    "article_id": "2081"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Decriminalization of Psilocybin. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2097",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3096&context=ca_ballot_inits",
+    "article_id": "2097"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Defines Legal Standard for Claim of Self-Defense in Certain Criminal Prosecutions of Law-Enforcement Officers. Requires Jury Trial for Specified Criminal Prosecutions of Law-Enforcement Officers. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2095",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3094&context=ca_ballot_inits",
+    "article_id": "2095"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Directs California Legislature to Request That Congress Call a Federal Constitutional Convention to Propose Various Amendments to The United States Constitution. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2090",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3089&context=ca_ballot_inits",
+    "article_id": "2090"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Division of California into Three States. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2091",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3090&context=ca_ballot_inits",
+    "article_id": "2091"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Electoral Votes. Presidential and Vice-Presidential Candidates. Initiative Advisory Question.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2073",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3072&context=ca_ballot_inits",
+    "article_id": "2073"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Eliminates Recently Enacted Road Repair and Transportation Funding by Repealing Revenues Dedicated for Those Purposes. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2077",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3076&context=ca_ballot_inits",
+    "article_id": "2077"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ELIMINATES RECENTLY ENACTED ROAD REPAIR AND TRANSPORTATION FUNDING BY REPEALING REVENUES DEDICATED FOR THOSE PURPOSES. REQUIRES ANY MEASURE TO ENACT CERTAIN VEHICLE FUEL TAXES AND VEHICLE FEES BE SUBMITTED TO AND APPROVED BY THE ELECTORATE. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2106",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3105&context=ca_ballot_inits",
+    "article_id": "2106"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Eliminates Restrictions on Voting by Felons in Prison or on Parole. Initiative Constitutional Amendment and Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2096",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3095&context=ca_ballot_inits",
+    "article_id": "2096"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Establishes a Fund for Healthcare in California Exempt from Revenue Restrictions. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2092",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3091&context=ca_ballot_inits",
+    "article_id": "2092"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ESTABLISHES A TAX CREDIT FOR HOMEOWNERS AND A SUPPLEMENTAL TAX CREDIT FOR RENTERS IN CALIFORNIA. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2104",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3103&context=ca_ballot_inits",
+    "article_id": "2104"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Establishes Constitutional Right to Gender Identity. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2076",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3099&context=ca_ballot_inits",
+    "article_id": "2076"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ESTABLISHES NEW CONSUMER PRIVACY RIGHTS; EXPANDS LIABILITY FOR CONSUMER DATA BREACHES. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2100",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3099&context=ca_ballot_inits",
+    "article_id": "2100"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ESTABLISHES NEW CONSUMER PRIVACY RIGHTS; EXPANDS LIABILITY FOR CONSUMER DATA BREACHES. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2112",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3111&context=ca_ballot_inits",
+    "article_id": "2112"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ESTABLISHES NEW STANDARDS FOR CONFINEMENT OF CERTAIN FARM ANIMALS; BANS SALE OF CERTAIN NON-COMPLYING PRODUCTS. INITIATIVE STATUTE",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2099",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3098&context=ca_ballot_inits",
+    "article_id": "2099"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "ESTABLISHES NEW STANDARDS FOR CONFINEMENT OF CERTAIN FARM ANIMALS; BANS SALE OF CERTAIN NON-COMPLYING PRODUCTS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2115",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3114&context=ca_ballot_inits",
+    "article_id": "2115"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "EXEMPTS CALIFORNIA RESIDENTS 55 YEARS OLD OR OLDER FROM STATE OR LOCAL INCOME AND PROPERTY TAXES AND PROPERTY FEES. EXEMPTS CALIFORNIA RESIDENTS FROM ANY STATE ESTATE TAX. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2102",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3101&context=ca_ballot_inits",
+    "article_id": "2102"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "EXEMPTS RESIDENTS WHO HAVE NO DEPENDENT ENROLLED IN PUBLIC EDUCATION FROM TAXES, FEES, AND OTHER CHARGES FOR PUBLIC EDUCATION. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2101",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3100&context=ca_ballot_inits",
+    "article_id": "2101"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "EXPANDS LOCAL GOVERNMENTS\u2019 AUTHORITY TO ENACT RENT CONTROL ON RESIDENTIAL PROPERTY. INITIATIVE STATUTE",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2114",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3113&context=ca_ballot_inits",
+    "article_id": "2114"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Increases Size of Legislature and Changes Legislative Process. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2075",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3074&context=ca_ballot_inits",
+    "article_id": "2075"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "INCREASES STUDENT AID FUNDING AT CALIFORNIA PUBLIC COLLEGES AND UNIVERSITIES BY ENACTING A DEDICATED TAX ON SOME ESTATES. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2111",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3110&context=ca_ballot_inits",
+    "article_id": "2111"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "LIMITS WORKERS\u2019 AUTHORITY TO RECOVER PENALTIES FROM OFFENDING EMPLOYERS FOR STATE LABOR-LAW VIOLATIONS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2110",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3109&context=ca_ballot_inits",
+    "article_id": "2110"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Makes Individuals Who Committed a Second Strike Offense Before Age 23 Eligible for an Earlier Parole Hearing. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2082",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3081&context=ca_ballot_inits",
+    "article_id": "2082"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Parole Consideration for Elderly Prison Inmates. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2079",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3078&context=ca_ballot_inits",
+    "article_id": "2079"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "PROHIBITS GOVERNMENT FROM ENFORCING EDUCATIONAL STANDARDS AND MAKES PARENTS AND GUARDIANS SOLELY RESPONSIBLE FOR THEIR CHILDREN\u2019S EDUCATION. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2103",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3102&context=ca_ballot_inits",
+    "article_id": "2103"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "REFERENDUM TO OVERTURN LAW DEFINING STATE AND LOCAL LAW-ENFORCEMENT AGENCIES\u2019 PARTICIPATION IN SPECIFIED IMMIGRATION ENFORCEMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2113",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3112&context=ca_ballot_inits",
+    "article_id": "2113"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Repeals Current Primary Election System in State and Congressional Elections. Initiative Constitutional Amendment.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2093",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3092&context=ca_ballot_inits",
+    "article_id": "2093"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "REQUIRES PRIVATE-SECTOR EMERGENCY AMBULANCE EMPLOYEES TO REMAIN ON CALL DURING WORK BREAKS. CHANGES OTHER CONDITIONS OF EMPLOYMENT. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2116",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3115&context=ca_ballot_inits",
+    "article_id": "2116"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "REQUIRES THAT PROCEEDS OF BONDS OR TAXES APPROVED BY THE VOTERS BE SPENT ON THE SPECIFIC PROJECTS OR USES APPROVED BY THE VOTERS. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2107",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3106&context=ca_ballot_inits",
+    "article_id": "2107"
+  },
+  {
+    "type": "initiative",
+    "year": "2017",
+    "title": "Sets Minimum Compensation for Some Public-School Teachers Equal to That of State Legislators. Sales Tax Increase. Initiative Statute.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2094",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3093&context=ca_ballot_inits",
+    "article_id": "2094"
+  },
+  {
+    "type": "initiative",
+    "year": "2016",
+    "title": "CRIMINAL SENTENCES. JUVENILE CRIMINAL PROCEEDINGS AND SENTENCING. INITIATIVE CONSTITUTIONAL AMENDMENT AND STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2063",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3062&context=ca_ballot_inits",
+    "article_id": "2063"
+  },
+  {
+    "type": "initiative",
+    "year": "2016",
+    "title": "DISABILITY ACCESS LITIGATION. INITIATIVE CONSTITUTIONAL AMENDMENT.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2040",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3039&context=ca_ballot_inits",
+    "article_id": "2040"
+  },
+  {
+    "type": "initiative",
+    "year": "2016",
+    "title": "DISABILITY ACCESS LITIGATION. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2037",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3036&context=ca_ballot_inits",
+    "article_id": "2037"
+  },
+  {
+    "type": "initiative",
+    "year": "2016",
+    "title": "ELIMINATION OF CHARTER SCHOOLS. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2041",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3040&context=ca_ballot_inits",
+    "article_id": "2041"
+  },
+  {
+    "type": "initiative",
+    "year": "2016",
+    "title": "ENVIRONMENTAL HEALTH. PROHIBITED SUBSTANCES AND ACTIVITIES. VACCINATION. INITIATIVE STATUTE.",
+    "url": "https://repository.uclawsf.edu/ca_ballot_inits/2064",
+    "pdf_url": "https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=3063&context=ca_ballot_inits",
+    "article_id": "2064"
+  }
+]
