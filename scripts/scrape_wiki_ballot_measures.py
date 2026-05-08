@@ -181,38 +181,47 @@ def parse_2022_tables(tables, year):
     return rows
 
 def parse_2020_earlier(html, year):
-    """Parse 2020 and earlier formats (bullet lists, smaller tables)."""
+    """Parse 2020 and earlier by normalizing the complete extracted CSV."""
     rows = []
-    
-    # Try using the old CSV data which we know works for 2022
-    # For 2020/2018, Wikipedia uses different formats - try extracting from 
-    # the page content
-    
-    # First: try to find any wikitable/sortable tables
-    tables = re.findall(r'<table[^>]*class="[^"]*(?:wikitable|sortable)[^"]*"[^>]*>.*?</table>', html, re.DOTALL)
-    
-    if tables:
-        for t in tables:
-            trs = re.findall(r'<tr>(.*?)</tr>', t, re.DOTALL)
-            if not trs:
+    fp = BASE / "data" / "raw" / "wikipedia_ballot_measures_complete.csv"
+    if not fp.exists():
+        return rows
+
+    with open(fp, newline='', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            try:
+                y = int(r.get("year", "0") or 0)
+            except ValueError:
                 continue
-            headers = [re.sub(r'<[^>]+>', '', h).strip().lower() for h in 
-                       re.findall(r'<th[^>]*>(.*?)</th>', trs[0], re.DOTALL)]
-            
-            # Check if this looks like a ballot table
-            if any(h in ' '.join(headers) for h in ['measure', 'description', 'result']):
-                for tr in trs[1:]:
-                    cells = re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', tr, re.DOTALL)
-                    if len(cells) < 2:
-                        continue
-                    clean = [re.sub(r'<[^>]+>', ' ', c).replace('&nbsp;', ' ').replace('&#160;', ' ')
-                            for c in cells]
-                    clean = [re.sub(r'\[.*?\]', '', c).strip() for c in clean]
-                    row = {'year': year, 'measure': clean[0] if len(clean) > 0 else '',
-                           'description': clean[1] if len(clean) > 1 else '',
-                           'result': clean[-1], 'yes_pct': None}
-                    rows.append(row)
-    
+            if y != year:
+                continue
+
+            text = (r.get("measure_name") or r.get("full_text") or "").strip()
+            # Keep only concrete measure rows (e.g. "2020 Alabama Amendment 1")
+            prefix = f"{year} "
+            if not text.startswith(prefix):
+                continue
+            remainder = text[len(prefix):]
+            state = None
+            measure = None
+            for name in sorted(STATE_ABBR.keys(), key=len, reverse=True):
+                if remainder.startswith(name + " "):
+                    state = name
+                    measure = remainder[len(name):].strip()
+                    break
+            if not state or not measure:
+                continue
+
+            rows.append({
+                "year": year,
+                "state": state,
+                "measure": measure,
+                "description": (r.get("full_text") or "")[:500],
+                "result": r.get("outcome", ""),
+                "yes_pct": None,
+                "no_pct": None,
+            })
     return rows
 
 def to_referendum(row):
@@ -240,7 +249,7 @@ def to_referendum(row):
     elif yes_pct is not None:
         passed = yes_pct >= 50.0
     else:
-        return None  # Can't determine from available data
+        passed = None  # Keep row with unknown outcome confidence
     
     # If no percentages but we have outcome, use flags for 2022 format
     if yes_pct is None:
@@ -252,13 +261,13 @@ def to_referendum(row):
             'measure_name': measure_name[:200],
             'wording': '', 'summary': description[:500],
             'topic': infer_topic(description, measure_name), 'subtopic': '',
-            'passed': str(passed).upper(),
+            'passed': '' if passed is None else str(passed).upper(),
             'support_pct': '', 'oppose_pct': '', 'threshold': '', 'margin': '',
             'votes_for': '', 'votes_against': '', 'total_votes': '',
             'partisan_leans': '', 'campaign_contributions': '',
-            'tags': f"{'passed' if passed else 'failed'};{year};{state_abbr}",
+            'tags': f"{'unknown' if passed is None else ('passed' if passed else 'failed')};{year};{state_abbr}",
             'source_url': f"https://en.wikipedia.org/wiki/{year}_United_States_ballot_measures",
-            'notes': f"Outcome: {outcome_text}. No vote percentages available.",
+            'notes': f"Outcome: {outcome_text or 'unknown'}. No vote percentages available.",
         }
     
     # 2024 format: has vote percentages

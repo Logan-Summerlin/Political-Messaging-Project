@@ -92,7 +92,7 @@ if nav_file.exists():
         bullets = []
         for line in lines:
             s = line.strip()
-            if s.startswith('-') and ('%' in s or s.startswith('- "')):
+            if s.startswith('-') and ('%' in s or s.startswith('- "') or any(k in s.lower() for k in ['message', 'argument', 'focus group', 'framing'])):
                 s = s.lstrip('- ').strip('" \u201c\u201d')
                 if len(s) > 30:
                     bullets.append(s)
@@ -129,20 +129,37 @@ print(f"Navigator messages: {len(nav_msgs)}")
 
 # ====== PART 3: DFP Tested Message Wording sections only ======
 sys.path.insert(0, str(BASE / "scripts"))
-from parse_dfp_chunks import parse_chunk2, bullet_to_message_row, extract_pct
+from parse_dfp_chunks import parse_chunk1, parse_chunk2, parse_chunk3, parse_chunk4, bullet_to_message_row
 
-fp = RAW / "dataforprogress" / "chunk2_polling_data.md"
 dfp_msgs = []
 seen_dfp = set()
 
-if fp.exists():
+def looks_like_message_test(text):
+    low = text.lower()
+    cues = ['message', 'argument', 'convinc', 'persua', 'more likely', 'less likely', 'support after', 'oppose after']
+    return any(c in low for c in cues)
+
+dfp_files = [
+    ("chunk1_polling_data.md", parse_chunk1, "bullets"),
+    ("chunk2_polling_data.md", parse_chunk2, "msg_wording"),
+    ("chunk3_polling_data.md", parse_chunk3, "polling_bullets"),
+    ("chunk4_polling_data.md", parse_chunk4, "polling_bullets"),
+]
+
+for filename, parser, field in dfp_files:
+    fp = RAW / "dataforprogress" / filename
+    if not fp.exists():
+        continue
     with open(fp, encoding='utf-8') as f:
-        articles = parse_chunk2(f.read())
-    
+        articles = parser(f.read())
+
     for art in articles:
-        for wording in art.get('msg_wording', []):
+        candidates = art.get(field, [])
+        for wording in candidates:
             w = wording.strip().strip('" \u201c\u201d')
             if len(w) < 10:
+                continue
+            if field != "msg_wording" and not looks_like_message_test(w):
                 continue
             
             row = bullet_to_message_row(art, w, len(dfp_msgs))

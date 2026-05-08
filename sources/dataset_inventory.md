@@ -11,14 +11,14 @@
 - **Format:** poll_id, source, source_url, date, question_type, question_wording, topic, issue_area, support_pct, oppose_pct, net, sample_size, methodology, population, moe, tags, notes
 
 ### `data/processed/messages.csv`
-- **216 rows**
-- **Sources:** Blueprint Research (70), Navigator Research (53), Data for Progress (93)
+- **255 rows**
+- **Sources:** Blueprint Research (9), Navigator Research (42), Data for Progress (204)
 - **Years:** 2024–2026
 - **Topics:** democracy, economy, social_security, foreign_policy, climate, immigration, healthcare, technology, abortion, guns, housing, voting_rights, culture_war
 - **Format:** message_id, source, source_url, date, topic, issue_area, message_type, wording, support_pct, oppose_pct, net_score, preference_effect, effect_scale, sample_size, methodology, population, moe, tags, notes
 
 ### `data/processed/referendums.csv`
-- **198 rows**
+- **315 rows**
 - **Sources:** Ballotpedia, Wikipedia
 - **Years:** 2024–2025
 - **States:** 9
@@ -48,4 +48,4 @@
 - Blueprint and Navigator data have the cleanest A/B message wording with exact preference scores and support percentages
 - Navigator extraction covers 22 articles (16 from archive + 6 from RSS); 53 clean rows with 51 having numeric support/oppose values
 - GSS data covers 21 topic areas from 1972–2024, extracted from the Stata cumulative file
-- Referendums is the smallest dataset — 592 Wikipedia + 600 CA raw records remain unprocessed
+- Referendums now include normalized 2008–2024 Wikipedia coverage; California raw records still remain for future integration.

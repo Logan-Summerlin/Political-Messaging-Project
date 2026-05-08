@@ -103,3 +103,30 @@ Reviewed Data for Progress (DFP), Navigator, and Gallup issue/message ingestion 
 2. Add a feed-diff QA check (per source) that flags feed URLs absent from processed `source_url` inventories.
 3. Expand Navigator parser to ingest non-bullet/qualitative message findings where explicit message text exists.
 4. Add a staleness guardrail: fail CI or warn when max source date lags feed `pubDate` by more than N days.
+
+
+## Implementation Status Update (May 8, 2026)
+
+### Original Recommended Next Actions — Status
+- [x] **1. Add year-specific parsers for 2020/2018/2016/2014/2012/2010/2008 that preserve state context.**
+  - Implemented via normalization logic that ingests and maps older-year rows from `wikipedia_ballot_measures_complete.csv` into the unified referendum schema.
+- [x] **2. Normalize `wikipedia_ballot_measures_complete.csv` into referendum schema (state, measure id, topic, outcome confidence).**
+  - Implemented in the rebuilt referendum pipeline with outcome-confidence handling (including explicit unknowns).
+- [x] **3. Rebuild referendum dataset and update documented row counts in README/inventory.**
+  - Completed; processed referendum outputs were rebuilt and documentation counts updated.
+- [x] **4. Add a reproducible validation script** for per-year raw coverage, per-year normalized counts, and schema checks.
+  - Completed via `scripts/validate_data_quality.py`.
+
+### Addendum Recommended Next Actions — Status
+- [x] **1. Generalize DFP message extraction beyond chunk2 “Tested Message Wording” blocks.**
+  - Completed by broadening extraction across multiple chunk formats and message-test cues.
+- [x] **2. Add a feed-diff QA check** that flags feed URLs absent from processed `source_url` inventories.
+  - Completed in `scripts/validate_data_quality.py`.
+- [x] **3. Expand Navigator parser** to ingest non-bullet/qualitative message findings with explicit message text.
+  - Completed through expanded heuristic extraction in message rebuild logic.
+- [~] **4. Add a staleness guardrail** when max source date lags feed `pubDate` by more than N days.
+  - **Partially completed:** staleness reporting is implemented in validation output, but no CI-enforced fail/warn threshold is configured in this repository yet.
+
+### Remaining Incomplete Work
+1. Wire `scripts/validate_data_quality.py` into CI (or a scheduled job) with a concrete staleness threshold `N` and failing/warning policy.
+2. Optionally add per-source threshold configuration (e.g., different lag tolerance for DFP, Navigator, Gallup).
