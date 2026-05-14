@@ -277,15 +277,52 @@ Flags:
 - Duplication: duplicate rate by (`source_url`,`question_text_norm`,`metric_type`,`value_pct`).
 - Sampling completeness: `% rows with sample_size/mode/field_dates available`.
 
-### Phase 4 — “Elegant Topline” Resolver
-Implement a resolver that maps percentages to tested prompts/questions:
-1. Detect candidate percentages in each paragraph/sentence.
-2. Resolve the nearest policy/question clause.
-3. Rank candidates and select primary topline(s) using rules:
-   - appears in headline/dek/lead paragraph,
-   - explicitly paired with support/oppose language,
-   - repeated in methodology/topline sections.
-4. Preserve alternates in audit columns (not discarded).
+### Phase 4 — “Elegant Topline” Resolver (IMPLEMENTATION COMPLETE)
+Phase 4 is implemented in `scripts/resolve_dfp_topline_support.py` as a deterministic post-processing resolver over Phase 3 output.
+
+#### 4.1 Inputs and Outputs
+**Input:** `data/processed/dfp_messaging_toplines_2018_2026.csv` from Phase 3 and cached article HTML under `data/raw/dataforprogress/html`.
+
+**Primary output:** resolved toplines CSV (same schema + resolver columns):
+- `resolver_phase4_applied` (bool string)
+- `resolver_source_layer` (origin extraction layer)
+
+**Audit output:** candidate ranking sidecar with alternates retained:
+- `row_id`, `candidate_rank`, `candidate_text`, `candidate_score`, `candidate_reason`
+
+#### 4.2 Resolver Methodology
+1. Rehydrate article text from cached HTML (tag stripping, script/style removal, whitespace normalization).
+2. For each Phase 3 row, localize the evidence context by matching `evidence_snippet` or `value_text_raw` sentence.
+3. Generate question/prompt candidates from:
+   - quoted strings,
+   - `whether ...` clauses,
+   - support/oppose policy clauses,
+   - prior-sentence fallback context.
+4. Score each candidate with weighted features:
+   - same-sentence hit (+0.35)
+   - prior-sentence fallback (+0.12)
+   - lead paragraph boost (+0.10)
+   - quoted prompt structure (+0.15)
+   - metric-cue alignment support/oppose (+0.25)
+   - topline/methodology cue (+0.10)
+   - overlong/noisy clause penalty (-0.15)
+5. Select highest-ranked candidate as `question_or_message_text`, normalize to `question_text_norm`, and recompute stable `row_id`.
+6. Preserve top-5 alternates in audit sidecar for analyst review and reproducibility.
+
+#### 4.3 Review and Confidence Rules
+- Rows with top candidate score `<0.60` are marked `needs_review=true` and `review_reason=phase4_low_binding_score`.
+- Rows with zero viable candidates are marked `needs_review=true` and `review_reason=phase4_no_candidates`.
+- Final `confidence_score` is the max of Phase 3 confidence and bounded Phase 4 candidate score.
+
+#### 4.4 Determinism and Reproducibility
+- Resolver is deterministic for fixed inputs and cache state.
+- Candidate generation/scoring is rule-based and version-stable.
+- All alternates are preserved in audit output to prevent hidden discard behavior.
+
+#### 4.5 CLI Contract
+```bash
+python scripts/resolve_dfp_topline_support.py   --input data/processed/dfp_messaging_toplines_2018_2026.csv   --html-root data/raw/dataforprogress/html   --out data/processed/dfp_messaging_toplines_2018_2026_resolved.csv   --audit-out data/processed/dfp_messaging_toplines_2018_2026_binding_audit.csv
+```
 
 ### Phase 5 — QA + Dedup + Merge
 1. Validate ranges (`0–100`), parse dates, and de-duplicate repeated findings.
