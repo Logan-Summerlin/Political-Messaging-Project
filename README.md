@@ -2,7 +2,7 @@
 
 **A structured, queryable dataset of US political issue polling, message testing A/B results, and ballot measure outcomes.** Exact wording, support percentages, methodology, and source links. Designed for message strategy, framing analysis, and campaign research.
 
-**5,600 total data points** across 3 unified tables — 255 tested messages, 5,030 issue poll questions, 315 ballot measures — spanning **1972–2026** from **10+ sources**.
+**5,649 total data points** across 3 unified tables — 213 tested messages, 5,099 issue poll questions, 337 ballot measures — spanning **1972–2026** from **8 sources**.
 
 ## 📁 Directory Structure
 
@@ -65,31 +65,36 @@ us-political-messaging-dataset/
 ## 📊 Dataset Summary
 
 | Table | Rows | Date Range | Primary Sources | Key Metrics |
-|---|---|---|---|---|
-| **messages.csv** | 255 | 2024–2026 | Blueprint (9), Navigator (42), DFP (204) | support%, preference_effect (MaxDiff) |
-| **issues.csv** | 5,030 | 1972–2026 | Gallup (1,830), DFP (1,731), GSS (1,303), Pew (150) | support%, oppose%, net |
-| **referendums.csv** | 315 | 2008–2024 | Wikipedia (national ballot measure pages) | support%, threshold, margin |
+|---|---|---|---|---|---|
+|| **messages.csv** | **213** | 2024–2026 | Navigator (142), Blueprint (71) | support%, preference_effect (MaxDiff) |
+|| **issues.csv** | **5,099** | 1972–2026 | Gallup (1,830), GSS (1,303), DFP (1,298), CES (447), Pew (205) | support%, oppose%, net |
+|| **referendums.csv** | **337** | 2008–2024 | Wikipedia (national ballot measure pages) | support%, threshold, margin |
 
 ### Message Testing
 
-Three independent sources of A/B tested political messages with exact wording:
+Two independent sources of A/B tested political messages with exact wording:
 
-- **Blueprint Research** — 70 rows. MaxDiff preference scores, support percentages, demographic crosstabs. Covers vision messaging, closing arguments, abortion, SS/Medicare, economy, authoritarianism, candidate bios, ad testing. (2024–2026)
-- **Navigator Research** — 53 rows. Poll questions with support/oppose percentages. Covers tax policy, Iran war, SAVE Act, tariffs, healthcare costs, trust, fraud/cuts, food prices. 51 rows have numeric support/oppose values. (2025–2026)
-- **Data for Progress** — 93 rows. Issue-specific message tests. Many need richer extraction from raw chunks. (2018–2026)
+- **Blueprint Research** — 71 rows. MaxDiff preference scores, support percentages. Covers vision messaging, closing arguments, abortion, SS/Medicare, economy, candidate bios, ad testing. (2024–2026)
+- **Navigator Research** — 142 rows. Support/oppose percentages and tracking polls. Covers tax policy, Iran war, tariffs, healthcare costs, trust, party trust, immigration. (2025–2026)
+
+**Training-ready:** 190 of 213 messages (89.2%) have wording + a quantitative metric.
 
 ### Issue Polling
 
-Seven sources, dominated by three:
+Eight sources:
 
 - **Gallup** — 1,830 rows. "Most Important Problem" monthly tracking, 2001–2026. Extracted via Datawrapper chart CSV APIs.
-- **Data for Progress** — 1,731 rows. Issue polling 2024–2026. 1,732 more in staging.
-- **General Social Survey** — 1,303 rows. 1972–2024, 21 topic areas. Extracted from Stata file via pyreadstat.
-- **Pew Research** — 150 rows. State of the Union 2026 toplines + 4 typology PDFs.
+- **General Social Survey** — 1,303 rows. 1972–2024, 45 variables across national spending, confidence, abortion, guns, immigration. Extracted from Stata file via pyreadstat.
+- **Data for Progress** — 1,298 rows. Narrative polling findings from 194 articles (2019–2026). Re-extracted May 9, 2026 with demographic filtering. Flagged as `data_quality: narrative_finding` in issues.csv (distinct from structured poll questions).
+- **CES (Cooperative Election Study)** — 447 rows. 2006–2021, 11 topic areas. Extracted from cumulative Stata file (675 MB).
+- **Pew Research Center** — 205 rows. Typology surveys (2011, 2014, 2017, 2021) and appendix topline. Extracted from PDF via pymupdf. +30 rows added May 9, 2026 from re-extraction covering 2011 and 2017 questions not previously captured.
+- **AP-NORC, YouGov, Ipsos** — 16 rows combined. 2025–2026 issue priorities and tracking.
 
 ### Ballot Measures
 
-315 measures from 2008–2024 normalized from Wikipedia sources. Raw holdings remain split across `wikipedia_ballot_measures.csv` and `wikipedia_ballot_measures_complete.csv`, plus ~600 California UC Law records pending integration.
+337 measures from 2008–2024 normalized from Wikipedia sources. **May 2026 backfill:** 22 new rows added with vote percentages from 2020 Wikipedia tables; 2020 coverage now 100% complete. 2022 has pass/fail outcomes only (no vote percentages on Wikipedia). 2008–2016 have limited Wikipedia data.
+
+Raw holdings split across `wikipedia_ballot_measures.csv` and `wikipedia_ballot_measures_complete.csv`, plus ~600 California UC Law records pending integration.
 
 ## 📐 Schema
 
@@ -125,5 +130,6 @@ Full schema details in `schema/` directory — see `messages_schema.md`, `issues
 
 ---
 
-*Last updated: May 7, 2026*
+*Last updated: May 9, 2026 — Critical bug fixes applied (GSS support_pct, DFP narrative fragments, NAV_NEW reclassification); data_quality field added; referendum vote data backfilled (2020 100%); Blueprint short entries expanded; Pew PDF re-extraction (+30 rows, 2014 appendix added); referendums 337 rows; issues 5,099 rows*
+*See sources/phase1_critical_audit_2026-05-09.md for full quality audit report.*
 *Project by Logan*

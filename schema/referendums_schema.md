@@ -28,9 +28,13 @@
 | `source_url` | string | no | Ballotpedia or Wikipedia link |
 | `notes` | text | no | Context, notable dynamics |
 
-## Current Status: 199 rows, 9 states, 2024–2025
+## Current Status: 337 rows, 48 states + DC, 2008–2024
 
-Raw data exists for 592+ Wikipedia measures (2008–2024) and 600+ California propositions (1911–2020) but not yet processed into referendums.csv.
+2020 vote data fully backfilled (45 rows, 0% missing).
+2018 partially backfilled (23 rows, 11 still missing — states without wikitable tables on Wikipedia).
+2008–2016: No vote percentages available on Wikipedia (no wikitable tables in those years).
+2022: Has pass/fail outcomes but no vote percentage data on Wikipedia.
+2024: 2 rows without vote data (procedural measures not voted on).
 
 ## Example
 

@@ -4,25 +4,25 @@
 ## Processed Datasets
 
 ### `data/processed/issues.csv`
-- **5,030 rows**
-- **Sources:** Gallup (1,830), Data for Progress (1,731), General Social Survey (1,303), Pew Research Center (150), AP-NORC (6), YouGov (6), Ipsos/Reuters (4)
+- **5,477 rows**
+- **Sources:** Gallup (1,830), Data for Progress (1,731), General Social Survey (1,303), CES (447), Pew Research Center (150), AP-NORC (6), YouGov (6), Ipsos/Reuters (4)
 - **Years:** 1972–2026
-- **Topics:** economy, healthcare, climate/environment, abortion, guns, immigration, crime, government, drugs, education, welfare, race, religion, family, technology, culture, media, foreign_policy, infrastructure, urban, social_security
+- **Topics:** economy, democracy, foreign_policy, government, climate, abortion, immigration, healthcare, crime, education, environment, guns, race, welfare, social_security, technology, religion, family, culture, media, infrastructure, urban, drugs, lgbt_rights, energy, values, politics, gun_policy, presidential_approval, approval, general_outlook, general_politics, society, government_role, race_equality, priorities, affirmative_action, gay_marriage, trade
 - **Format:** poll_id, source, source_url, date, question_type, question_wording, topic, issue_area, support_pct, oppose_pct, net, sample_size, methodology, population, moe, tags, notes
 
 ### `data/processed/messages.csv`
-- **255 rows**
-- **Sources:** Blueprint Research (9), Navigator Research (42), Data for Progress (204)
-- **Years:** 2024–2026
-- **Topics:** democracy, economy, social_security, foreign_policy, climate, immigration, healthcare, technology, abortion, guns, housing, voting_rights, culture_war
+- **387 rows**
+- **Sources:** Data for Progress (318), Navigator Research (60), Blueprint Research (9)
+- **Years:** 2019–2026
+- **Topics:** democracy, economy, foreign_policy, climate, healthcare, immigration, general, housing, politics, technology, social_security, abortion, voting_rights, culture_war, guns
 - **Format:** message_id, source, source_url, date, topic, issue_area, message_type, wording, support_pct, oppose_pct, net_score, preference_effect, effect_scale, sample_size, methodology, population, moe, tags, notes
 
 ### `data/processed/referendums.csv`
 - **315 rows**
-- **Sources:** Ballotpedia, Wikipedia
-- **Years:** 2024–2025
-- **States:** 9
-- **Topics:** Abortion, crime, minimum wage, cannabis, education, voting, taxes, environment
+- **Sources:** Wikipedia
+- **Years:** 2008–2024
+- **States:** 48
+- **Topics:** government, voting_rights, taxes, abortion, crime, civil_rights, minimum_wage, education, healthcare, drugs, environment, labor, housing, transportation, immigration, gambling
 - **Format:** measure_id, state, year, election_date, election_type, measure_name, wording, summary, topic, subtopic, passed, support_pct, oppose_pct, threshold, margin, votes_for, votes_against, total_votes, partisan_leans, campaign_contributions, tags, source_url, notes
 
 ## Raw Data Holdings
@@ -46,6 +46,9 @@
 
 ## Key Notes
 - Blueprint and Navigator data have the cleanest A/B message wording with exact preference scores and support percentages
-- Navigator extraction covers 22 articles (16 from archive + 6 from RSS); 53 clean rows with 51 having numeric support/oppose values
+- Navigator extraction covers 22+ articles; 60 clean rows with numeric support/oppose values
 - GSS data covers 21 topic areas from 1972–2024, extracted from the Stata cumulative file
-- Referendums now include normalized 2008–2024 Wikipedia coverage; California raw records still remain for future integration.
+- CES data covers 11 topic areas from 2006–2021, extracted and reshaped into issues.csv format (447 rows)
+- DFP message extraction expanded beyond chunk2 to include chunk1 "Message Wording Tested" sections (20 new messages extracted)
+- Referendums cover 48 states from 2008–2024, scraped from Wikipedia
+- Navigator PDF toplines contain additional message testing data in image-based format (not text-extractable)

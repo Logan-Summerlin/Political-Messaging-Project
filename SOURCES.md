@@ -40,9 +40,9 @@
 - **Methodology:** Online panel surveys with exact polling percentages
 - **Topics:** Economy, healthcare, immigration, Iran war, China, AI, minimum wage, climate, housing
 - **Access:** Free, NO Cloudflare (Squarespace), fully scrapeable
-- **Estimated volume:** 500+ blog posts (775 articles in 4 raw chunks, 921 KB)
-- **Rows in messages.csv:** 93 (partial wording; richer data in staging: `dfp_new_messages.csv`)
-- **Rows in issues.csv:** 1,731 (1,732 more in `dfp_new_issues.csv` staging)
+- **Estimated volume:** 775+ articles in 4 raw chunks (921 KB)
+- **Rows in messages.csv:** 318 (93 original + 94 staging + 20 chunk1 extracted + 111 cross-referenced from existing)
+- **Rows in issues.csv:** 1,731
 
 ### 1d. Other Sources Investigated
 | Source | Verdict | Reason |
@@ -106,9 +106,13 @@
 - **Access:** Angular SPA — needs browser extraction (Chrome sandbox blocked)
 - **Status:** Minimal data extracted
 
-### 2h. Chicago Council on Global Affairs
-- **Rows in issues.csv:** 0 (data identified but not yet entered)
-- **Key stats:** 81% favor defending allies, 72% stop nuclear proliferation
+### 2h. CES (Cooperative Election Study)
+- **Rows in issues.csv:** 447
+- **Years:** 2006–2021
+- **Source:** Harvard Dataverse (doi:10.7910/DVN/II2DB6)
+- **Method:** Cumulative Stata file (675 MB), extracted via pyreadstat with 11 policy topic areas (abortion, affirmative action, presidential approval, economy, environment, foreign policy, gay marriage, guns, healthcare, immigration, trade)
+- **Variables extracted:** Approval ratings, economy perceptions, abortion views (6 sub-questions), gun policy (4 types), immigration (8 types), healthcare (ACA, Medicare), environment (carbon tax, renewable energy, fuel standards), trade policy, gay marriage, military policy, spending priorities
+- **Access:** Free download from Harvard Dataverse
 
 ---
 

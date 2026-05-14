@@ -20,16 +20,18 @@
 | `population` | string | no | "adults", "registered_voters", "likely_voters" |
 | `moe` | float | no | Margin of error (percentage points) |
 | `tags` | string | no | Semicolon-separated keywords |
-| `notes` | text | no | Context, caveats |
+|| `data_quality` | string | yes | "structured_poll" (question wording + support%) or "narrative_finding" (blog post narrative findings, e.g., DFP) |
+|| `notes` | text | no | Context, caveats |
 
-## Source Breakdown (5,030 rows)
+## Source Breakdown (5,099 rows)
 
 | Source | Rows | Date Range |
 |--------|------|-----------|
 | Gallup | 1,830 | 2001–2026 |
-| Data for Progress | 1,731 | 2024–2026 |
 | General Social Survey | 1,303 | 1972–2024 |
-| Pew Research Center | 150 | 2026 |
+| Data for Progress | 1,298 | 2024–2026 |
+| Pew Research Center | 205 | 2011–2026 |
+| CES | 447 | 2006–2021 |
 | AP-NORC | 6 | 2025–2026 |
 | YouGov | 6 | 2026 |
 | Ipsos/Reuters | 4 | 2026 |

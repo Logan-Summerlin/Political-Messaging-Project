@@ -136,6 +136,18 @@ def main():
         
         val_labels, support_value = VAR_CONFIG[varname]
         
+        # Convert string support_value to integer key
+        # BUGFIX: support_value is a string like 'too_little' but valid contains integers 1,2,3
+        # Must find the integer key that maps to the string value
+        support_key = None
+        if val_labels and support_value:
+            for k, v in val_labels.items():
+                if v == support_value:
+                    support_key = k
+                    break
+        if support_key is None:
+            support_key = 1  # fallback
+        
         # Group by year
         yearly = df.groupby('year')
         
@@ -149,7 +161,7 @@ def main():
                 continue
             
             total = len(valid)
-            support_count = (valid == (support_value if val_labels else 1)).sum()
+            support_count = (valid == support_key).sum()
             oppose_count = 0
             
             # Calculate oppose based on value labels

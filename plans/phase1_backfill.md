@@ -5,15 +5,19 @@
 ## Priority Order — Progress as of May 7, 2026
 
 ### P1 — Pew Research Toplines (PDF)
-**Status:** ✅ 4 of ~8 PDFs downloaded, 143 rows extracted
+**Status:** ✅ 5 of ~8 PDFs downloaded, 205 rows extracted (+30 from re-extraction)
 **How:** `pymupdf` to extract from topline PDFs at pewresearch.org
+**PDFs processed:**
+- 2011 Political Typology (59 rows)
+- 2014 Political Polarization + Typology (7 rows including appendix)
+- 2017 Political Typology (66 rows)
+- 2021 Political Typology (33 rows)
+- **Remaining:** 2020 typology, 2023 typology, trust-in-government annual (2010-2023), values surveys — mostly behind Cloudflare or no public topline PDFs found
 **What to get:**
 - Political Typology surveys (2011, 2014, 2017, 2020, 2023)
 - Political Polarization surveys (2014, 2017, 2022)
 - Values surveys (biennial, 2010-2023)
 - Trust in government (annual, 2010-2023)
-- Internet/technology surveys — only where politically relevant
-- **Estimate:** ~8 PDFs, ~500 questions each = ~4,000 data points
 
 ### P1 — Gallup Most Important Problem
 **Status:** ✅ Complete — 1,830 rows extracted (2001–2026)

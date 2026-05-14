@@ -45,6 +45,14 @@ PDF_META = {
         "population": "adults",
         "tags": "political_typology;2021",
     },
+    "2014_typology_appendix_topline.pdf": {
+        "source_url": "https://assets.pewresearch.org/wp-content/uploads/sites/5/2014/06/APPENDIX-4-Typology-Topline-for-Release.pdf",
+        "date": "2014-03-01",
+        "sample_size": 10013,
+        "methodology": "phone",
+        "population": "adults",
+        "tags": "political_typology;appendix;2014",
+    },
 }
 
 
@@ -265,7 +273,8 @@ def extract_pct_phone(table_lines, q_wording):
     matches = date_num_pattern.findall(text)
     
     if matches:
-        first_val = int(matches[0])
+        # matches is a list of tuples due to MONTH_NAMES capturing group
+        first_val = int(matches[0][-1]) if isinstance(matches[0], tuple) else int(matches[0])
         # Now find the second number after the first date
         first_date_match = re.search(
             MONTH_NAMES + r'\s+\d+[-\u2013](?:\d+,?\s+)?' + MONTH_NAMES + r'?\s*\d*,?\s+\d{4}',
@@ -656,6 +665,7 @@ def parse_file(pdf_name):
             'population': meta['population'],
             'moe': moe,
             'tags': meta['tags'],
+            'data_quality': 'structured_poll',
         })
         poll_counter += 1
     
@@ -674,7 +684,8 @@ def main():
     fieldnames = [
         'poll_id', 'source', 'source_url', 'date', 'question_type',
         'question_wording', 'topic', 'issue_area', 'support_pct', 'oppose_pct',
-        'net', 'sample_size', 'methodology', 'population', 'moe', 'tags'
+        'net', 'sample_size', 'methodology', 'population', 'moe', 'tags',
+        'data_quality'
     ]
     
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)

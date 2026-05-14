@@ -15,6 +15,20 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Backup files
+*.bak
+*.bak.*
+*.bak_*
+backup_*
+*_backup.csv
+*.clean_base
+*.gitbak
+
 # OS
 .DS_Store
 Thumbs.db
+
+# Large media / audio
+*.ogg
+*.mp3
+*.mp4

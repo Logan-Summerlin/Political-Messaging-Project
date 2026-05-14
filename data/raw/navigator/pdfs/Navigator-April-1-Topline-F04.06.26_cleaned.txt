@@ -1,0 +1,9890 @@
+375 Total
+Interviews
+, 1000 Base
+238 African Americans, 238 Hispanics
+Copyright 2026
+April 2
+6, 2026
+114 AAPI, 224 Pure Independents
+April 1 Navigator 2026
+49734
+Margin of Error: +/
+3.1%
+REGVOTE.
+Are you currently registered to vote in
+Yes
+99%
+No
+Not sure
+PTYID.
+When it comes to politics, do you generally think of yourself as a
+strong Democrat, not very strong Democrat, strong Republican, not very
+strong Republican, an independent, or some other political party?
+[IF
+Do you think of yourself as closer to the Democratic
+Party or the Republican Party?
+Strong Democrat
+27%
+Weak Democrat
+11
+Independent / Closer to the Democrats
+Independent
+12
+Independent / Closer to the Republicans
+Weak Republican
+13
+Strong Republican
+25
+DEMOCRAT (NET\
+39%
+INDEPENDENT (NET\
+24
+REPUBLICAN (NET\
+38
+DEMOCRAT W/ LEANERS (NET\
+44%
+REPUBLICAN W/ LEANERS (NET\
+43
+PTYIMPORT.
+How important is politics to your personal identity?
+Very important
+33%
+Somewhat important
+33
+Not too important
+23
+Not at all important
+12
+IMPORTANT (NET\
+65%
+NOT IMPORTANT (NET\
+35
+SEEKNEWS.
+Which of the following better describes how you get news
+about things like current events and politics?
+I seek out news
+61%
+News comes to me
+39
+DIRECTION.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Off on the wrong track
+60%
+61%
+61%
+60%
+85%
+75%
+31%
+77%
+64%
+55%
+85%
+Headed in the right direction
+33
+34
+33
+33
+12
+16
+60
+21
+29
+38
+12
+Not sure
+10
+FUTUREPATH.
+Thinking ahead to
+a year from now
+, do you think the country will be...
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Better off than it is right now
+27%
+28%
+25%
+28%
+9%
+14%
+49%
+20%
+24%
+29%
+12%
+About the same as it is right now
+25
+24
+26
+25
+21
+28
+27
+25
+22
+26
+22
+Worse off than it is right now
+43
+42
+41
+41
+65
+47
+20
+49
+48
+40
+58
+Not sure
+10
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+YEARAGO.
+Thinking back to
+a year ago
+, do you think the country was...
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Better off than it is right now
+40%
+51%
+42%
+28%
+44%
+44%
+39%
+42%
+About the same as it is right now
+31
+28
+34
+34
+36
+26
+31
+31
+Worse off than it is right now
+26
+18
+19
+36
+16
+25
+28
+23
+Not sure
+TRUMPAPP.
+Do you approve or disapprove of the way Donald Trump is handling his job as president?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly approve
+22%
+23%
+21%
+20%
+3%
+8%
+45%
+10%
+16%
+26%
+6%
+Somewhat approve
+18
+17
+19
+21
+16
+30
+10
+14
+21
+13
+Somewhat disapprove
+13
+13
+11
+11
+10
+19
+15
+11
+14
+14
+11
+Strongly disapprove
+45
+45
+47
+45
+79
+50
+67
+54
+37
+68
+Not sure
+APPROVE (NET\
+40%
+40
+41
+41
+10
+24
+75
+20
+30
+47
+19
+DISAPPROVE (NET\
+58
+59
+58
+56
+89
+69
+23
+78
+67
+51
+79
+TRUMPAPPECON.
+Do you approve or disapprove of the way Donald Trump is handling the economy?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly approve
+19%
+21%
+19%
+19%
+3%
+7%
+38%
+8%
+15%
+22%
+5%
+Somewhat approve
+21
+18
+19
+21
+14
+37
+12
+14
+25
+14
+Somewhat disapprove
+13
+14
+14
+12
+10
+23
+13
+11
+15
+13
+11
+Strongly disapprove
+46
+45
+45
+44
+80
+49
+10
+68
+53
+39
+68
+Not sure
+APPROVE (NET\
+40%
+39
+38
+40
+21
+76
+20
+29
+47
+19
+DISAPPROVE (NET\
+59
+60
+60
+57
+90
+72
+23
+79
+67
+52
+79
+TRUMPREGRET.
+You indicated you voted for Donald Trump in 2024. Do you regret voting for Donald Trump?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Yes, I regret voting for Trump
+....
+18%
+19%
+20%
+14%
+51%
+41%
+14%
+49%
+35%
+15%
+29%
+No, I do not regret voting for Trump
+82
+81
+80
+86
+49
+59
+86
+51
+65
+85
+71
+Q1.
+You indicated you regret voting for
+Donald Trump in 2024. What makes you say that?
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+FAVS.
+You will now see the names of some people, groups, and other items. Please indicate how favorable or unfavorable you are to
+each one.
+FAV
+UNFAV
+DK
+NH
+NET
+Very
+Some
+Some
+Very
+FAV
+UNFAV
+FAM
+TSA, or the Transportation Security Administration
+20%
+39
+14
+14
+58%
+24
+82
+Latest Data by Party Dem
+13%
+40
+16
+13
+14
+53%
+30
+83
+Latest Data by Party Ind
+12%
+32
+18
+12
+21
+44%
+30
+73
+Latest Data by Party Rep
+29%
+40
+11
+11
+68%
+17
+85
+Latest Data by Race Afr Am
+23%
+35
+15
+14
+58%
+24
+83
+Latest Data by Race Hisp
+19%
+37
+15
+11
+13
+55%
+26
+81
+Latest Data by Race White
+20%
+40
+14
+14
+60%
+22
+82
+Latest Data by Race AAPI
+12%
+34
+23
+21
+10
+46%
+43
+89
+The U.S. Supreme Court
+14%
+37
+23
+16
+10
+51%
+39
+90
+Jun
+9 2025
+12%
+34
+27
+18
+47%
+45
+91
+May
+18 2025
+12%
+36
+26
+16
+10
+48%
+42
+90
+Jul
+14 2024
+13%
+28
+21
+28
+41%
+49
+90
+Latest Data by Party Dem
+8%
+30
+30
+23
+38%
+53
+91
+Latest Data by Party Ind
+9%
+28
+26
+18
+19
+36%
+45
+81
+Latest Data by Party Rep
+23%
+46
+16
+69%
+23
+92
+Latest Data by Race Afr Am
+12%
+34
+25
+18
+10
+46%
+43
+89
+Latest Data by Race Hisp
+15%
+32
+25
+17
+11
+47%
+41
+88
+Latest Data by Race White
+16%
+38
+23
+14
+10
+53%
+37
+90
+Latest Data by Race AAPI
+7%
+37
+25
+24
+44%
+50
+93
+The North Atlantic Treaty Organization, or NATO
+19%
+30
+14
+13
+16
+49%
+27
+76
+Oct
+30 2023
+16%
+34
+12
+10
+21
+50%
+22
+72
+Mar
+07 2022
+23%
+35
+13
+17
+58%
+21
+79
+Latest Data by Party Dem
+27%
+33
+16
+60%
+16
+76
+Latest Data by Party Ind
+10%
+32
+14
+11
+22
+11
+42%
+26
+67
+Latest Data by Party Rep
+13%
+27
+22
+17
+15
+41%
+39
+79
+Latest Data by Race Afr Am
+16%
+30
+13
+18
+14
+46%
+22
+68
+Latest Data by Race Hisp
+19%
+33
+14
+18
+10
+52%
+21
+73
+Latest Data by Race White
+20%
+30
+16
+12
+16
+50%
+28
+78
+Latest Data by Race AAPI
+18%
+30
+10
+18
+14
+48%
+29
+77
+DHS, or the Department of Homeland Security
+18%
+29
+15
+25
+11
+47%
+40
+88
+Feb
+01 2026
+18%
+26
+14
+29
+11
+44%
+43
+87
+Latest Data by Party Dem
+6%
+19
+19
+44
+25%
+64
+88
+Latest Data by Party Ind
+5%
+26
+23
+23
+21
+31%
+46
+77
+Latest Data by Party Rep
+34%
+41
+10
+75%
+15
+90
+Latest Data by Race Afr Am
+10%
+28
+15
+32
+11
+37%
+47
+84
+Latest Data by Race Hisp
+15%
+22
+15
+30
+13
+38%
+44
+82
+Latest Data by Race White
+21%
+31
+16
+21
+10
+52%
+37
+89
+Latest Data by Race AAPI
+5%
+25
+11
+45
+12
+30%
+56
+86
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+FAVS.
+You will now see the names of some people, groups, and other items. Please indicate how favorable or unfavorable you are to
+each one.
+FAV
+UNFAV
+DK
+NH
+NET
+Very
+Some
+Some
+Very
+FAV
+UNFAV
+FAM
+The Democratic Party
+....
+17%
+26
+18
+34
+44%
+52
+96
+Mar
+16 2026
+16%
+27
+16
+35
+43%
+51
+94
+Feb
+23 2026
+17%
+28
+21
+30
+45%
+52
+97
+Feb
+01 2026
+16%
+26
+21
+33
+42%
+53
+95
+Latest Data by Party Dem
+36%
+47
+13
+82%
+17
+99
+Latest Data by Party Ind
+4%
+23
+27
+30
+15
+27%
+57
+84
+Latest Data by Party Rep
+3%
+20
+67
+10%
+87
+97
+Latest Data by Race Afr Am
+35%
+35
+14
+10
+70%
+25
+95
+Latest Data by Race Hisp
+20%
+35
+16
+24
+55%
+40
+96
+Latest Data by Race White
+14%
+22
+19
+42
+37%
+60
+97
+Latest Data by Race AAPI
+17%
+40
+16
+23
+57%
+39
+96
+The Republican Party
+18%
+23
+18
+37
+41%
+54
+96
+Mar
+16 2026
+17%
+25
+17
+36
+41%
+53
+94
+Feb
+23 2026
+17%
+25
+16
+39
+42%
+55
+97
+Feb
+01 2026
+16%
+26
+15
+38
+42%
+53
+95
+Latest Data by Party Dem
+1%
+22
+68
+7%
+90
+97
+Latest Data by Party Ind
+3%
+24
+22
+38
+11
+27%
+60
+87
+Latest Data by Party Rep
+39%
+42
+12
+81%
+16
+97
+Latest Data by Race Afr Am
+7%
+12
+22
+53
+18%
+75
+93
+Latest Data by Race Hisp
+15%
+15
+18
+44
+30%
+62
+92
+Latest Data by Race White
+22%
+27
+17
+31
+49%
+48
+97
+Latest Data by Race AAPI
+6%
+18
+19
+53
+23%
+71
+95
+Donald Trump
+24%
+17
+10
+47
+41%
+57
+98
+Mar
+16 2026
+25%
+15
+11
+47
+40%
+58
+98
+Feb
+23 2026
+23%
+17
+11
+48
+41%
+58
+99
+Feb
+01 2026
+23%
+19
+10
+46
+42%
+56
+98
+Latest Data by Party Dem
+4%
+83
+9%
+90
+99
+Latest Data by Party Ind
+11%
+16
+18
+51
+27%
+69
+96
+Latest Data by Party Rep
+48%
+29
+12
+78%
+21
+99
+Latest Data by Race Afr Am
+10%
+11
+69
+21%
+77
+98
+Latest Data by Race Hisp
+21%
+10
+58
+28%
+68
+96
+Latest Data by Race White
+29%
+20
+10
+40
+49%
+50
+99
+Latest Data by Race AAPI
+6%
+10
+13
+70
+16%
+83
+99
+JD Vance
+20%
+19
+11
+38
+39%
+49
+87
+Mar
+16 2026
+22%
+17
+11
+37
+38%
+48
+86
+Jan
+12 2026
+22%
+19
+38
+41%
+48
+89
+Dec
+08 2025
+21%
+18
+10
+37
+10
+39%
+47
+86
+Latest Data by Party Dem
+2%
+11
+70
+7%
+81
+88
+Latest Data by Party Ind
+7%
+15
+17
+35
+15
+11
+22%
+52
+74
+Latest Data by Party Rep
+41%
+34
+76%
+14
+90
+Latest Data by Race Afr Am
+7%
+14
+47
+15
+16%
+61
+76
+Latest Data by Race Hisp
+18%
+12
+41
+12
+27%
+53
+80
+Latest Data by Race White
+24%
+22
+34
+47%
+43
+90
+Latest Data by Race AAPI
+7%
+12
+13
+57
+10
+19%
+70
+89
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+FAVS.
+You will now see the names of some people, groups, and other items. Please indicate how favorable or unfavorable you are to
+each one.
+FAV
+UNFAV
+DK
+NH
+NET
+Very
+Some
+Some
+Very
+FAV
+UNFAV
+FAM
+ICE, also known as Immigration and Customs Enforcement
+20%
+17
+12
+44
+37%
+57
+94
+Mar
+16 2026
+20%
+16
+12
+45
+36%
+57
+93
+Feb
+23 2026
+21%
+15
+12
+48
+36%
+60
+96
+Feb
+01 2026
+19%
+17
+11
+47
+36%
+58
+94
+Latest Data by Party Dem
+4%
+12
+72
+10%
+85
+95
+Latest Data by Party Ind
+7%
+13
+15
+53
+11
+20%
+67
+88
+Latest Data by Party Rep
+40%
+29
+12
+13
+69%
+25
+94
+Latest Data by Race Afr Am
+5%
+14
+11
+59
+10
+19%
+70
+89
+Latest Data by Race Hisp
+13%
+16
+57
+30%
+65
+94
+Latest Data by Race White
+25%
+19
+13
+38
+43%
+51
+95
+Latest Data by Race AAPI
+5%
+12
+14
+64
+17%
+77
+94
+The Republican budget, also known as the One Big
+Beautiful Bill Act
+17%
+19
+12
+38
+36%
+49
+85
+Feb
+01 2026
+16%
+20
+10
+38
+11
+35%
+49
+84
+Sep
+08 2025
+14%
+18
+10
+41
+12
+32%
+51
+83
+Aug
+11 2025
+15%
+18
+10
+42
+11
+33%
+52
+85
+Latest Data by Party Dem
+4%
+12
+69
+8%
+81
+89
+Latest Data by Party Ind
+4%
+10
+19
+37
+18
+11
+15%
+57
+71
+Latest Data by Party Rep
+34%
+36
+10
+10
+71%
+15
+86
+Latest Data by Race Afr Am
+8%
+12
+50
+11
+10
+17%
+63
+79
+Latest Data by Race Hisp
+13%
+13
+11
+42
+11
+10
+26%
+53
+79
+Latest Data by Race White
+21%
+21
+12
+33
+42%
+45
+87
+Latest Data by Race AAPI
+6%
+16
+14
+52
+21%
+66
+88
+Marco Rubio
+17%
+17
+12
+25
+16
+13
+34%
+37
+71
+Mar
+16 2026
+17%
+17
+12
+24
+17
+13
+34%
+36
+70
+Jan
+12 2026
+16%
+17
+12
+26
+18
+11
+33%
+38
+71
+Apr
+7 2025
+13%
+16
+11
+25
+20
+14
+30%
+36
+66
+Latest Data by Party Dem
+2%
+14
+43
+19
+12
+12%
+58
+69
+Latest Data by Party Ind
+8%
+14
+17
+21
+19
+21
+23%
+38
+61
+Latest Data by Party Rep
+34%
+25
+13
+11
+60%
+16
+75
+Latest Data by Race Afr Am
+6%
+14
+12
+33
+18
+17
+20%
+45
+65
+Latest Data by Race Hisp
+15%
+15
+10
+29
+14
+18
+29%
+39
+68
+Latest Data by Race White
+21%
+18
+12
+22
+15
+11
+39%
+35
+73
+Latest Data by Race AAPI
+7%
+12
+11
+31
+30
+19%
+42
+61
+Tariffs
+...
+10%
+19
+17
+44
+29%
+61
+90
+Mar
+16 2026
+11%
+17
+16
+43
+10
+29%
+59
+88
+Feb
+23 2026
+12%
+18
+15
+45
+30%
+59
+90
+Jan
+12 2026
+12%
+18
+19
+41
+30%
+60
+90
+Latest Data by Party Dem
+3%
+12
+71
+9%
+83
+93
+Latest Data by Party Ind
+3%
+14
+21
+46
+13
+17%
+67
+84
+Latest Data by Party Rep
+19%
+34
+20
+16
+10
+53%
+36
+89
+Latest Data by Race Afr Am
+7%
+13
+11
+58
+11
+19%
+69
+88
+Latest Data by Race Hisp
+8%
+14
+18
+46
+11
+22%
+64
+86
+Latest Data by Race White
+12%
+22
+18
+40
+34%
+57
+91
+Latest Data by Race AAPI
+4%
+11
+63
+10
+13%
+75
+88
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+FAVS.
+You will now see the names of some people, groups, and other items. Please indicate how favorable or unfavorable you are to
+each one.
+FAV
+UNFAV
+DK
+NH
+NET
+Very
+Some
+Some
+Very
+FAV
+UNFAV
+FAM
+Pete Hegseth
+12%
+13
+28
+18
+21
+24%
+37
+62
+Mar
+16 2026
+14%
+13
+27
+15
+23
+27%
+35
+62
+Dec
+08 2025
+13%
+11
+26
+18
+25
+25%
+33
+57
+Apr
+28 2025
+10%
+11
+27
+17
+28
+21%
+34
+55
+Latest Data by Party Dem
+3%
+48
+16
+20
+8%
+56
+64
+Latest Data by Party Ind
+3%
+10
+32
+21
+26
+13%
+40
+53
+Latest Data by Party Rep
+23%
+21
+10
+18
+19
+44%
+18
+62
+Latest Data by Race Afr Am
+4%
+32
+22
+25
+13%
+40
+53
+Latest Data by Race Hisp
+11%
+12
+31
+16
+24
+23%
+37
+60
+Latest Data by Race White
+15%
+14
+10
+26
+17
+19
+28%
+36
+64
+Latest Data by Race AAPI
+4%
+42
+22
+19
+9%
+49
+59
+CONGPRIORLIST.
+Below is a list of issues. Which do you feel are most important for the President and Congress to focus on? You can
+select up to five.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Inflation and the cost of living
+....
+61%
+58%
+58%
+63%
+59%
+60%
+63%
+53%
+52%
+64%
+65%
+Jobs and the economy
+48
+47
+46
+48
+47
+50
+47
+50
+48
+47
+48
+Health care
+41
+40
+44
+41
+48
+43
+33
+41
+38
+40
+48
+Social Security and Medicare
+....
+34
+34
+31
+32
+37
+36
+29
+32
+27
+35
+29
+Corruption in government
+32
+33
+35
+34
+29
+38
+33
+31
+29
+32
+34
+Immigration
+28
+31
+31
+32
+10
+18
+48
+14
+30
+31
+23
+Government spending and debt
+27
+28
+26
+29
+22
+27
+33
+24
+21
+29
+28
+Crime
+23
+23
+24
+24
+16
+24
+29
+21
+20
+24
+15
+Housing
+22
+23
+24
+25
+27
+25
+17
+21
+27
+22
+24
+Taxes
+22
+26
+24
+25
+18
+22
+26
+28
+22
+22
+14
+Democracy
+19
+17
+18
+18
+31
+15
+29
+21
+16
+21
+Foreign conflicts
+19
+14
+17
+20
+19
+12
+19
+19
+22
+Climate change and the environment
+16
+18
+19
+17
+24
+15
+19
+20
+15
+22
+Education
+...
+13
+13
+14
+13
+15
+13
+11
+18
+15
+12
+10
+Guns
+12
+10
+12
+11
+16
+13
+12
+13
+12
+19
+Artificial intelligence (AI\
+10
+11
+10
+10
+11
+16
+12
+10
+Integrity of elections
+10
+10
+n/a
+n/a
+12
+10
+10
+Abortion
+10
+Vaccines and disease prevention
+10
+Transgender issues
+Other
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+REPPRIORLIST.
+Below is the same list of issues. Which do you think
+Donald Trump and Republicans in Congress
+are most
+focused on? You can select up to five.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Immigration
+71%
+64%
+71%
+73%
+70%
+69%
+73%
+63%
+68%
+73%
+67%
+Foreign conflicts
+58
+54
+45
+47
+61
+65
+52
+50
+57
+57
+68
+Integrity of elections
+28
+23
+n/a
+n/a
+28
+19
+29
+18
+23
+30
+24
+Government spending and debt
+24
+27
+26
+28
+23
+22
+27
+30
+28
+25
+15
+Inflation and the cost of living
+....
+22
+22
+21
+25
+10
+15
+36
+15
+23
+25
+13
+Corruption in government
+21
+18
+18
+23
+15
+10
+31
+15
+21
+22
+28
+Jobs and the economy
+21
+20
+22
+22
+10
+19
+32
+13
+21
+23
+14
+Taxes
+20
+21
+27
+23
+18
+21
+22
+23
+14
+20
+21
+Transgender issues
+17
+15
+17
+16
+26
+15
+22
+17
+16
+20
+Crime
+15
+20
+20
+24
+18
+21
+10
+17
+13
+Artificial intelligence (AI\
+13
+14
+12
+12
+12
+11
+16
+15
+14
+Abortion
+12
+13
+13
+13
+16
+19
+22
+14
+10
+11
+Social Security and Medicare
+....
+11
+13
+10
+10
+11
+10
+11
+13
+13
+10
+20
+Health care
+12
+13
+11
+16
+Guns
+10
+13
+Democracy
+11
+10
+13
+Housing
+Climate change and the environment
+11
+Vaccines and disease prevention
+10
+Education
+...
+Other
+DEMPRIORLIST.
+Below is the same list of issues. Which do you think
+Democrats in Congress
+are most focused on? You can
+select up to five.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dec
+08
+Sep
+15 2024
+Mar
+11 2024
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Health care
+31%
+39%
+25%
+22%
+44%
+27%
+19%
+34%
+33%
+30%
+31%
+Transgender issues
+29
+30
+n/a
+n/a
+25
+53
+10
+18
+36
+12
+Democracy
+29
+27
+23
+20
+41
+25
+17
+36
+33
+26
+39
+Social Security and Medicare
+....
+28
+29
+24
+19
+40
+25
+16
+36
+28
+24
+39
+Inflation and the cost of living
+....
+27
+27
+23
+24
+41
+22
+15
+36
+28
+25
+33
+Climate change and the
+environment
+27
+31
+37
+40
+22
+21
+34
+19
+26
+31
+17
+Jobs and the economy
+25
+25
+26
+27
+38
+18
+15
+44
+31
+20
+39
+Abortion
+24
+28
+53
+38
+11
+28
+36
+20
+29
+22
+Corruption in government
+24
+18
+10
+10
+33
+26
+15
+31
+25
+22
+28
+Immigration
+22
+14
+19
+21
+19
+32
+23
+14
+23
+23
+29
+Government spending and
+debt
+20
+14
+n/a
+n/a
+25
+24
+15
+28
+18
+19
+17
+Guns
+18
+19
+31
+30
+11
+14
+26
+12
+11
+22
+Housing
+15
+15
+n/a
+n/a
+19
+12
+12
+23
+20
+12
+20
+Foreign conflicts
+15
+n/a
+n/a
+n/a
+17
+24
+10
+26
+14
+12
+19
+Taxes
+13
+13
+n/a
+n/a
+14
+12
+23
+14
+10
+15
+Education
+...
+12
+14
+11
+10
+13
+13
+18
+12
+16
+Vaccines and disease
+prevention
+..
+11
+12
+n/a
+n/a
+10
+14
+12
+17
+10
+11
+Integrity of elections
+11
+n/a
+n/a
+n/a
+12
+13
+10
+13
+13
+11
+13
+Crime
+11
+11
+11
+11
+11
+16
+18
+Artificial intelligence (AI\
+n/a
+n/a
+10
+11
+Other
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+Q2.
+You indicated you think
+corruption in government is one of the most important issues for the
+President and Congress to focus on. What specifically do you mean by
+Q3.
+You indicated you think
+immigration is one of the most important issues for the President and
+TRUMPNEWS.
+Over the past few days, how much have you seen, read, or heard about Donald Trump?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+A lot
+47%
+50%
+44%
+47%
+50%
+44%
+45%
+42%
+49%
+47%
+56%
+Some
+31
+29
+30
+31
+27
+26
+36
+29
+30
+32
+24
+A little
+15
+14
+16
+13
+14
+18
+15
+18
+13
+15
+10
+Nothing
+10
+13
+11
+11
+A LOT/SOME (NET\
+78%
+78
+74
+79
+77
+70
+81
+71
+78
+79
+80
+A LITTLE/NOTHING (NET\
+22
+22
+26
+21
+23
+30
+19
+29
+22
+21
+20
+TRUMPNEWS2.
+Over the past few days, has what you have seen, read, or heard recently about Donald Trump been:
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Mostly positive
+17%
+18%
+15%
+14%
+5%
+7%
+31%
+10%
+14%
+19%
+8%
+Mostly negative
+53
+49
+53
+51
+79
+55
+26
+68
+60
+48
+67
+Equal mix of positive and negative
+25
+26
+24
+26
+10
+29
+38
+16
+17
+28
+15
+Have heard nothing in past few days about
+Trump
+10
+10
+TOTAL POSITIVE (NET\
+41%
+44
+39
+40
+15
+36
+69
+25
+31
+47
+23
+TOTAL NEGATIVE (NET\
+77
+75
+77
+77
+89
+84
+64
+83
+77
+76
+82
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+TRUMPPOS.
+In a few words, what positive things have
+you seen, read, or heard recently about Donald Trump?
+TRUMPNEG.
+In a few words, what negative things have
+you seen, read, or heard recently about Donald Trump?
+TRUMPAPPFP.
+Do you approve or disapprove of the way Donald Trump is handling foreign policy?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Jun
+30
+Apr
+28
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly approve
+20%
+22%
+23%
+23%
+3%
+7%
+41%
+9%
+13%
+24%
+5%
+Somewhat approve
+18
+16
+18
+18
+13
+32
+12
+18
+20
+13
+Somewhat disapprove
+13
+14
+11
+12
+12
+18
+12
+11
+13
+13
+16
+Strongly disapprove
+45
+42
+35
+38
+77
+51
+11
+66
+51
+39
+62
+Not sure
+12
+10
+12
+APPROVE (NET\
+38%
+39
+41
+41
+19
+73
+21
+31
+44
+18
+DISAPPROVE (NET\
+58
+56
+47
+49
+89
+69
+23
+77
+65
+52
+79
+TRUMPAPPGAS.
+Do you approve or disapprove of the way Donald Trump is handling gas prices?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly approve
+13%
+3%
+3%
+26%
+8%
+12%
+15%
+4%
+Somewhat approve
+15
+13
+28
+11
+18
+Somewhat disapprove
+17
+13
+22
+20
+16
+16
+18
+14
+Strongly disapprove
+48
+77
+50
+17
+65
+53
+42
+65
+Not sure
+12
+12
+APPROVE (NET\
+28%
+15
+55
+16
+23
+33
+DISAPPROVE (NET\
+65
+91
+72
+37
+81
+69
+61
+80
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+10
+39
+BETJOBB.
+Below is a list of issues. Please indicate who
+you personally
+trust more to handle each one.
+The
+Democratic
+Party
+Donald
+Trump and
+the
+Republican
+Party
+either party
+on this issue
+enough to
+say
+Health care
+42%
+29
+23
+Mar
+16 2026
+44%
+30
+19
+Feb
+23 2026
+44%
+29
+21
+Feb
+01 2026
+44%
+28
+21
+Latest Data by Party Dem
+77%
+14
+Latest Data by Party Ind
+23%
+11
+50
+16
+Latest Data by Party Rep
+11%
+59
+25
+Latest Data by Race Afr Am
+65%
+13
+18
+Latest Data by Race Hisp
+52%
+28
+15
+Latest Data by Race White
+36%
+34
+24
+Latest Data by Race AAPI
+50%
+11
+30
+Child care costs
+41%
+27
+20
+13
+Latest Data by Party Dem
+75%
+10
+10
+Latest Data by Party Ind
+22%
+10
+49
+19
+Latest Data by Party Rep
+11%
+54
+21
+14
+Latest Data by Race Afr Am
+64%
+13
+16
+Latest Data by Race Hisp
+51%
+24
+17
+Latest Data by Race White
+35%
+31
+20
+14
+Latest Data by Race AAPI
+47%
+26
+20
+Education costs
+39%
+30
+21
+10
+Latest Data by Party Dem
+73%
+14
+Latest Data by Party Ind
+21%
+12
+47
+20
+Latest Data by Party Rep
+10%
+59
+20
+11
+Latest Data by Race Afr Am
+61%
+15
+20
+Latest Data by Race Hisp
+53%
+22
+18
+Latest Data by Race White
+33%
+35
+21
+11
+Latest Data by Race AAPI
+49%
+13
+25
+14
+Grocery prices
+38%
+30
+26
+Latest Data by Party Dem
+74%
+15
+Latest Data by Party Ind
+21%
+56
+14
+Latest Data by Party Rep
+8%
+60
+28
+Latest Data by Race Afr Am
+63%
+14
+18
+Latest Data by Race Hisp
+50%
+22
+21
+Latest Data by Race White
+33%
+35
+27
+Latest Data by Race AAPI
+42%
+36
+15
+Jobs and the economy
+...
+38%
+36
+21
+Mar
+16 2026
+38%
+35
+20
+Feb
+23 2026
+39%
+36
+19
+Feb
+01 2026
+37%
+39
+19
+Latest Data by Party Dem
+73%
+14
+Latest Data by Party Ind
+21%
+16
+53
+10
+Latest Data by Party Rep
+6%
+71
+19
+Latest Data by Race Afr Am
+60%
+14
+20
+Latest Data by Race Hisp
+49%
+27
+16
+Latest Data by Race White
+32%
+43
+21
+Latest Data by Race AAPI
+48%
+16
+29
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+11
+39
+BETJOBB.
+Below is a list of issues. Please indicate who
+you personally
+trust more to handle each one.
+The
+Democratic
+Party
+Donald
+Trump and
+the
+Republican
+Party
+either party
+on this issue
+enough to
+say
+Housing costs
+37%
+30
+24
+Latest Data by Party Dem
+71%
+14
+Latest Data by Party Ind
+18%
+12
+55
+15
+Latest Data by Party Rep
+7%
+60
+26
+Latest Data by Race Afr Am
+57%
+16
+22
+Latest Data by Race Hisp
+45%
+27
+22
+Latest Data by Race White
+32%
+35
+24
+Latest Data by Race AAPI
+41%
+35
+15
+Inflation and the cost of living
+37%
+33
+24
+Mar
+16 2026
+37%
+35
+23
+Feb
+23 2026
+39%
+34
+23
+Feb
+01 2026
+34%
+37
+23
+Latest Data by Party Dem
+73%
+15
+Latest Data by Party Ind
+17%
+14
+55
+14
+Latest Data by Party Rep
+5%
+65
+25
+Latest Data by Race Afr Am
+59%
+18
+18
+Latest Data by Race Hisp
+47%
+28
+20
+Latest Data by Race White
+30%
+39
+25
+Latest Data by Race AAPI
+47%
+14
+30
+10
+Looking out for people like me
+37%
+30
+28
+Mar
+16 2026
+37%
+32
+24
+Feb
+23 2026
+39%
+30
+26
+Feb
+01 2026
+37%
+32
+27
+Latest Data by Party Dem
+72%
+20
+Latest Data by Party Ind
+15%
+13
+60
+12
+Latest Data by Party Rep
+6%
+61
+27
+Latest Data by Race Afr Am
+56%
+12
+26
+Latest Data by Race Hisp
+46%
+26
+22
+Latest Data by Race White
+30%
+36
+28
+Latest Data by Race AAPI
+52%
+10
+32
+Immigration
+36%
+43
+17
+Mar
+16 2026
+34%
+43
+18
+Feb
+23 2026
+37%
+42
+17
+Feb
+01 2026
+35%
+42
+19
+Latest Data by Party Dem
+72%
+15
+Latest Data by Party Ind
+16%
+28
+44
+13
+Latest Data by Party Rep
+5%
+80
+11
+Latest Data by Race Afr Am
+55%
+18
+22
+Latest Data by Race Hisp
+45%
+30
+20
+Latest Data by Race White
+30%
+51
+15
+Latest Data by Race AAPI
+50%
+22
+22
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+12
+39
+BETJOBB.
+Below is a list of issues. Please indicate who
+you personally
+trust more to handle each one.
+The
+Democratic
+Party
+Donald
+Trump and
+the
+Republican
+Party
+either party
+on this issue
+enough to
+say
+Utility costs
+36%
+29
+27
+Latest Data by Party Dem
+69%
+20
+Latest Data by Party Ind
+17%
+11
+53
+20
+Latest Data by Party Rep
+7%
+59
+26
+Latest Data by Race Afr Am
+58%
+12
+24
+Latest Data by Race Hisp
+50%
+25
+19
+Latest Data by Race White
+29%
+34
+28
+Latest Data by Race AAPI
+44%
+11
+31
+14
+Gas prices
+35%
+31
+27
+Latest Data by Party Dem
+71%
+17
+Latest Data by Party Ind
+17%
+16
+52
+15
+Latest Data by Party Rep
+5%
+60
+30
+Latest Data by Race Afr Am
+61%
+16
+19
+Latest Data by Race Hisp
+42%
+24
+24
+10
+Latest Data by Race White
+29%
+37
+28
+Latest Data by Race AAPI
+48%
+34
+10
+Foreign conflicts
+34%
+37
+22
+Mar
+16 2026
+33%
+38
+22
+Latest Data by Party Dem
+68%
+18
+Latest Data by Party Ind
+11%
+22
+49
+19
+Latest Data by Party Rep
+5%
+72
+19
+Latest Data by Race Afr Am
+52%
+16
+25
+Latest Data by Race Hisp
+44%
+28
+20
+Latest Data by Race White
+29%
+44
+21
+Latest Data by Race AAPI
+45%
+21
+26
+The conflict with Iran
+34%
+37
+23
+Mar
+16 2026
+31%
+39
+22
+Latest Data by Party Dem
+66%
+18
+Latest Data by Party Ind
+15%
+23
+48
+14
+Latest Data by Party Rep
+6%
+70
+20
+Latest Data by Race Afr Am
+50%
+21
+22
+Latest Data by Race Hisp
+41%
+30
+21
+Latest Data by Race White
+29%
+43
+23
+Latest Data by Race AAPI
+45%
+21
+23
+11
+Taxes
+...
+34%
+34
+24
+Mar
+16 2026
+34%
+35
+24
+Feb
+23 2026
+34%
+35
+24
+Jan
+12 2026
+32%
+38
+23
+Latest Data by Party Dem
+69%
+18
+Latest Data by Party Ind
+11%
+21
+52
+16
+Latest Data by Party Rep
+4%
+67
+23
+Latest Data by Race Afr Am
+53%
+17
+24
+Latest Data by Race Hisp
+46%
+28
+18
+Latest Data by Race White
+28%
+40
+25
+Latest Data by Race AAPI
+40%
+17
+29
+14
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+13
+39
+BETJOBB.
+Below is a list of issues. Please indicate who
+you personally
+trust more to handle each one.
+The
+Democratic
+Party
+Donald
+Trump and
+the
+Republican
+Party
+either party
+on this issue
+enough to
+say
+National security and foreign policy
+34%
+40
+20
+Mar
+16 2026
+34%
+40
+19
+Feb
+01 2026
+35%
+42
+17
+Jan
+12 2026
+33%
+45
+18
+Latest Data by Party Dem
+67%
+17
+Latest Data by Party Ind
+12%
+25
+45
+18
+Latest Data by Party Rep
+5%
+76
+15
+Latest Data by Race Afr Am
+50%
+20
+24
+Latest Data by Race Hisp
+43%
+31
+17
+Latest Data by Race White
+29%
+47
+19
+Latest Data by Race AAPI
+45%
+22
+25
+Q4.
+Below are some emotions some people feel about politics. Please select up to
+five
+that you are feeling about politics right now.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Jun
+30
+Mar
+17
+Feb
+24
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Discouraged
+50%
+49%
+44%
+41%
+62%
+63%
+35%
+52%
+46%
+50%
+57%
+Anxious
+45
+49
+48
+48
+54
+44
+35
+43
+45
+45
+52
+Angry
+45
+39
+40
+38
+60
+51
+27
+42
+47
+44
+48
+Exhausted
+..
+43
+40
+37
+37
+51
+48
+34
+44
+47
+42
+59
+Overwhelmed
+40
+n/a
+n/a
+n/a
+44
+46
+35
+43
+48
+39
+36
+Scared
+34
+39
+39
+37
+44
+33
+23
+34
+38
+33
+37
+Sad
+30
+30
+31
+31
+37
+44
+18
+30
+31
+29
+38
+Hopeful
+29
+38
+38
+41
+15
+12
+49
+27
+30
+31
+16
+Engaged
+....
+16
+22
+20
+21
+10
+25
+16
+16
+17
+12
+Indifferent
+...
+15
+17
+15
+16
+15
+20
+14
+21
+19
+13
+14
+Excited
+13
+18
+21
+25
+21
+15
+17
+13
+Secure
+11
+16
+14
+14
+19
+10
+13
+11
+Relieved
+10
+17
+21
+22
+17
+11
+12
+10
+Vindicated
+..
+11
+Other
+Feeling none of these
+TRUMPFOCUS.
+Do you think Donald Trump is focused on the right things?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Feb
+03
+2025
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Mostly focused on the right things
+23%
+31%
+4%
+9%
+47%
+10%
+19%
+28%
+8%
+Somewhat focused on the right things
+18
+17
+16
+31
+13
+15
+21
+11
+Somewhat focused on the wrong things
+10
+10
+10
+18
+14
+10
+10
+10
+Mostly focused on the wrong things
+44
+39
+77
+45
+10
+59
+51
+39
+65
+Not sure
+12
+RIGHT THINGS (NET\
+41%
+48
+10
+25
+77
+23
+34
+48
+19
+WRONG THINGS (NET\
+55
+49
+88
+63
+19
+73
+61
+48
+75
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+14
+39
+ECONOMYSTATUS.
+How would you rate the state of the U.S. economy today?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Excellent
+....
+7%
+5%
+6%
+4%
+4%
+11%
+9%
+10%
+7%
+2%
+Good
+24
+27
+25
+27
+10
+16
+41
+18
+25
+26
+11
+Not so good
+39
+38
+39
+41
+42
+43
+35
+41
+33
+39
+40
+Poor
+29
+27
+28
+25
+44
+39
+11
+31
+32
+27
+46
+Not sure
+POSITIVE (NET\
+31%
+32
+31
+31
+14
+16
+52
+27
+35
+32
+12
+NEGATIVE (NET\
+68
+65
+67
+67
+86
+82
+46
+72
+64
+66
+86
+PERSITCONFIDENCE.
+Thinking about your personal financial situation
+over the next few months
+, do you feel confident or uneasy?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Very confident
+14%
+14%
+13%
+12%
+7%
+3%
+25%
+18%
+11%
+14%
+9%
+Somewhat confident
+25
+26
+28
+28
+17
+20
+35
+22
+25
+27
+18
+Somewhat uneasy
+31
+28
+31
+32
+35
+37
+25
+29
+33
+31
+32
+Very uneasy
+27
+28
+26
+27
+39
+34
+13
+30
+28
+26
+38
+Not sure
+CONFIDENT (NET\
+39%
+40
+40
+39
+24
+23
+59
+40
+36
+41
+27
+UNEASY (NET\
+58
+56
+58
+58
+74
+71
+38
+59
+61
+57
+70
+B1.
+Below is a list of items. Please indicate, for each one, whether you feel like those costs are going up, going down, or stayi
+ng the
+same.
+GOING UP
+Staying
+the same
+GOING DOWN
+NET
+A lot
+Some
+Some
+A lot
+GOING
+UP
+GOING
+DOWN
+The cost of gas
+60%
+27
+87%
+Mar
+16 2026
+54%
+31
+10
+85%
+Dec
+08 2025
+19%
+28
+30
+19
+47%
+23
+Jul
+21 2025
+21%
+29
+30
+17
+50%
+20
+Latest Data by Party Dem
+70%
+20
+91%
+Latest Data by Party Ind
+69%
+21
+90%
+Latest Data by Party Rep
+47%
+35
+11
+82%
+Latest Data by Race Afr Am
+64%
+17
+11
+82%
+Latest Data by Race Hisp
+56%
+25
+81%
+10
+Latest Data by Race White
+59%
+29
+88%
+Latest Data by Race AAPI
+67%
+24
+91%
+The cost of groceries
+47%
+35
+12
+82%
+Mar
+16 2026
+44%
+36
+15
+79%
+Feb
+23 2026
+47%
+34
+12
+80%
+Jan
+12 2026
+46%
+34
+11
+81%
+Latest Data by Party Dem
+59%
+32
+91%
+Latest Data by Party Ind
+52%
+36
+88%
+Latest Data by Party Rep
+34%
+37
+21
+71%
+Latest Data by Race Afr Am
+57%
+27
+11
+83%
+Latest Data by Race Hisp
+52%
+26
+13
+78%
+Latest Data by Race White
+45%
+37
+12
+82%
+Latest Data by Race AAPI
+50%
+34
+13
+83%
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+15
+39
+B1.
+Below is a list of items. Please indicate, for each one, whether you feel like those costs are going up, going down, or stayi
+ng the
+same.
+GOING UP
+Staying
+the same
+GOING DOWN
+NET
+A lot
+Some
+Some
+A lot
+GOING
+UP
+GOING
+DOWN
+The cost of utilities
+36%
+38
+20
+74%
+Mar
+16 2026
+35%
+39
+21
+74%
+Feb
+23 2026
+41%
+39
+17
+80%
+Jan
+12 2026
+35%
+39
+21
+74%
+Latest Data by Party Dem
+47%
+38
+10
+85%
+Latest Data by Party Ind
+37%
+48
+13
+84%
+Latest Data by Party Rep
+25%
+36
+31
+61%
+Latest Data by Race Afr Am
+46%
+31
+17
+77%
+Latest Data by Race Hisp
+39%
+29
+24
+68%
+Latest Data by Race White
+34%
+40
+20
+74%
+Latest Data by Race AAPI
+36%
+43
+15
+79%
+Your costs generally
+34%
+42
+18
+76%
+Mar
+16 2026
+33%
+41
+18
+75%
+Feb
+23 2026
+35%
+40
+18
+74%
+Jan
+12 2026
+32%
+40
+17
+71%
+12
+Latest Data by Party Dem
+44%
+41
+11
+85%
+Latest Data by Party Ind
+38%
+40
+19
+78%
+Latest Data by Party Rep
+22%
+44
+24
+66%
+10
+Latest Data by Race Afr Am
+36%
+36
+21
+72%
+Latest Data by Race Hisp
+36%
+32
+24
+68%
+Latest Data by Race White
+32%
+45
+16
+77%
+Latest Data by Race AAPI
+43%
+43
+11
+86%
+The cost of health care
+..
+30%
+35
+30
+65%
+Mar
+16 2026
+32%
+34
+30
+65%
+Feb
+23 2026
+41%
+34
+21
+75%
+Jan
+12 2026
+39%
+31
+27
+69%
+Latest Data by Party Dem
+39%
+38
+19
+78%
+Latest Data by Party Ind
+37%
+29
+32
+66%
+Latest Data by Party Rep
+19%
+34
+41
+53%
+Latest Data by Race Afr Am
+36%
+34
+23
+70%
+Latest Data by Race Hisp
+35%
+27
+29
+62%
+Latest Data by Race White
+28%
+36
+32
+64%
+Latest Data by Race AAPI
+34%
+34
+30
+68%
+The cost of child care
+21%
+32
+41
+53%
+Latest Data by Party Dem
+29%
+36
+30
+65%
+Latest Data by Party Ind
+25%
+29
+42
+53%
+Latest Data by Party Rep
+12%
+28
+53
+41%
+Latest Data by Race Afr Am
+31%
+31
+32
+62%
+Latest Data by Race Hisp
+28%
+28
+37
+55%
+Latest Data by Race White
+19%
+32
+43
+51%
+Latest Data by Race AAPI
+17%
+35
+40
+52%
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+16
+39
+Q11.
+Have you filed your federal income taxes for 2025?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Yes
+61%
+59%
+50%
+65%
+66%
+59%
+62%
+47%
+No
+20
+22
+20
+17
+16
+23
+18
+33
+Don't have to file this year
+18
+18
+25
+16
+14
+15
+19
+18
+Prefer not to say
+Q12.
+[IF YES IN
+Which of the following best
+describes how much you paid in federal
+income taxes for 2025, including any
+refund you may have received?
+[IF NO IN
+Which of the following best
+describes how much you expect to pay in
+federal income taxes for 2025, including
+any refund you may receive?
+Apr
+06
+Filed 2025
+Income Tax
+Hasn't Filed
+2025 Income
+Tax
+Paid more in taxes than expected /
+Expect to pay more in taxes than previous years
+24%
+25%
+21%
+Paid less in taxes than expected /
+Expect to pay less in taxes than previous years
+19
+20
+18
+Paid about what I expected /
+Expect
+to pay about the same as previous years
+46
+51
+31
+Don't know
+10
+30
+B2.
+Below is a list of government programs. Please indicate how much fraud you believe is present in each one.
+FRAUD
+NO FRAUD
+DK
+NET
+A lot
+Some
+little
+At all
+FRAUD
+NO
+FRAUD
+Government contracts
+....
+37%
+26
+14
+16
+64
+21
+Latest Data by Party Dem
+41%
+23
+12
+15
+65
+20
+Latest Data by Party Ind
+37%
+27
+11
+22
+64
+14
+Latest Data by Party Rep
+33%
+29
+16
+15
+62
+23
+Latest Data by Race Afr Am
+33%
+23
+13
+14
+17
+56
+27
+Latest Data by Race Hisp
+35%
+27
+13
+15
+62
+22
+Latest Data by Race White
+37%
+28
+15
+15
+65
+20
+Latest Data by Race AAPI
+45%
+21
+21
+66
+14
+Defense spending
+31%
+24
+13
+11
+21
+55
+25
+Latest Data by Party Dem
+41%
+20
+12
+10
+17
+62
+21
+Latest Data by Party Ind
+32%
+26
+10
+30
+58
+12
+Latest Data by Party Rep
+21%
+27
+16
+15
+21
+47
+32
+Latest Data by Race Afr Am
+33%
+21
+14
+14
+19
+54
+27
+Latest Data by Race Hisp
+31%
+26
+12
+12
+19
+57
+24
+Latest Data by Race White
+30%
+24
+14
+11
+21
+55
+25
+Latest Data by Race AAPI
+37%
+22
+11
+24
+59
+17
+SNAP, or food stamps
+...
+31%
+22
+23
+11
+12
+53
+35
+Latest Data by Party Dem
+14%
+22
+34
+16
+13
+36
+51
+Latest Data by Party Ind
+29%
+23
+22
+18
+52
+30
+Latest Data by Party Rep
+49%
+23
+12
+71
+19
+Latest Data by Race Afr Am
+19%
+23
+28
+15
+15
+42
+42
+Latest Data by Race Hisp
+26%
+22
+24
+17
+11
+48
+41
+Latest Data by Race White
+34%
+23
+22
+11
+57
+32
+Latest Data by Race AAPI
+33%
+17
+19
+12
+20
+49
+31
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+17
+39
+B2.
+Below is a list of government programs. Please indicate how much fraud you believe is present in each one.
+FRAUD
+NO FRAUD
+DK
+NET
+A lot
+Some
+little
+At all
+FRAUD
+NO
+FRAUD
+Medicaid
+25%
+25
+21
+13
+16
+49
+34
+Latest Data by Party Dem
+13%
+23
+28
+19
+17
+36
+47
+Latest Data by Party Ind
+22%
+30
+18
+23
+52
+25
+Latest Data by Party Rep
+37%
+25
+15
+14
+62
+24
+Latest Data by Race Afr Am
+15%
+26
+20
+22
+17
+41
+43
+Latest Data by Race Hisp
+18%
+20
+25
+21
+16
+38
+46
+Latest Data by Race White
+28%
+25
+21
+11
+15
+54
+32
+Latest Data by Race AAPI
+21%
+24
+19
+11
+25
+44
+30
+Tax collection
+24%
+24
+20
+11
+20
+49
+31
+Latest Data by Party Dem
+22%
+21
+24
+13
+20
+44
+37
+Latest Data by Party Ind
+28%
+23
+18
+25
+51
+23
+Latest Data by Party Rep
+26%
+27
+18
+11
+19
+53
+28
+Latest Data by Race Afr Am
+23%
+21
+17
+19
+20
+44
+36
+Latest Data by Race Hisp
+26%
+22
+20
+15
+17
+47
+35
+Latest Data by Race White
+25%
+25
+22
+19
+50
+31
+Latest Data by Race AAPI
+18%
+31
+11
+15
+25
+49
+26
+Unemployment assistance
+22%
+25
+23
+13
+17
+46
+36
+Latest Data by Party Dem
+13%
+24
+27
+19
+17
+36
+47
+Latest Data by Party Ind
+19%
+28
+22
+27
+47
+27
+Latest Data by Party Rep
+31%
+25
+20
+15
+56
+29
+Latest Data by Race Afr Am
+12%
+26
+21
+21
+19
+38
+43
+Latest Data by Race Hisp
+20%
+20
+28
+16
+15
+40
+45
+Latest Data by Race White
+24%
+25
+24
+10
+16
+49
+35
+Latest Data by Race AAPI
+19%
+28
+18
+12
+23
+47
+30
+Medicare
+21%
+23
+24
+17
+15
+44
+41
+Latest Data by Party Dem
+12%
+21
+27
+24
+17
+32
+51
+Latest Data by Party Ind
+21%
+26
+23
+11
+20
+47
+34
+Latest Data by Party Rep
+30%
+25
+20
+12
+13
+55
+32
+Latest Data by Race Afr Am
+14%
+17
+24
+28
+17
+31
+53
+Latest Data by Race Hisp
+18%
+24
+24
+21
+14
+41
+45
+Latest Data by Race White
+24%
+24
+24
+15
+14
+48
+38
+Latest Data by Race AAPI
+12%
+24
+24
+10
+29
+37
+34
+Social Security
+21%
+23
+24
+16
+16
+44
+40
+Latest Data by Party Dem
+13%
+18
+29
+23
+17
+31
+52
+Latest Data by Party Ind
+21%
+24
+22
+25
+45
+29
+Latest Data by Party Rep
+29%
+28
+20
+11
+13
+56
+31
+Latest Data by Race Afr Am
+16%
+20
+23
+23
+18
+36
+46
+Latest Data by Race Hisp
+24%
+24
+21
+17
+14
+48
+38
+Latest Data by Race White
+22%
+24
+25
+15
+15
+46
+39
+Latest Data by Race AAPI
+18%
+13
+29
+13
+26
+32
+42
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+18
+39
+B2.
+Below is a list of government programs. Please indicate how much fraud you believe is present in each one.
+FRAUD
+NO FRAUD
+DK
+NET
+A lot
+Some
+little
+At all
+FRAUD
+NO
+FRAUD
+Child care assistance
+20%
+22
+19
+15
+24
+42
+34
+Latest Data by Party Dem
+10%
+19
+25
+22
+25
+28
+47
+Latest Data by Party Ind
+20%
+19
+20
+35
+39
+26
+Latest Data by Party Rep
+31%
+26
+13
+10
+20
+56
+24
+Latest Data by Race Afr Am
+13%
+22
+21
+22
+22
+35
+43
+Latest Data by Race Hisp
+15%
+19
+21
+21
+24
+34
+42
+Latest Data by Race White
+23%
+23
+19
+12
+23
+46
+31
+Latest Data by Race AAPI
+14%
+15
+21
+16
+34
+30
+37
+Retirement programs
+13%
+23
+23
+17
+24
+36
+40
+Latest Data by Party Dem
+10%
+20
+24
+22
+23
+30
+47
+Latest Data by Party Ind
+11%
+26
+22
+35
+36
+29
+Latest Data by Party Rep
+17%
+26
+22
+14
+21
+43
+36
+Latest Data by Race Afr Am
+12%
+20
+17
+26
+25
+32
+43
+Latest Data by Race Hisp
+12%
+21
+29
+19
+18
+34
+48
+Latest Data by Race White
+13%
+24
+24
+14
+24
+38
+39
+Latest Data by Race AAPI
+14%
+18
+24
+13
+31
+32
+37
+Q23.
+Below is a list of people and groups. Which of the following do you think are most responsible for fraud in government progra
+ms, if
+any? You can select up to three.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Recipients of benefits from programs
+39%
+27%
+41%
+51%
+29%
+30%
+43%
+30%
+The President and his administration
+38
+61
+40
+14
+53
+50
+32
+50
+Government contractors
+35
+36
+31
+35
+37
+32
+35
+42
+Members of Congress
+33
+32
+40
+33
+27
+30
+35
+32
+Federal government employees
+28
+28
+24
+30
+33
+28
+28
+18
+State government employees
+....
+23
+18
+20
+30
+24
+19
+24
+16
+Governors
+..
+21
+16
+16
+27
+18
+26
+21
+15
+Other
+None of these are responsible for fraud
+Q24XA.
+Even if you don't agree with either side completely, which comes closer to your opinion when it comes to the Republican
+budget, or the "One Big Beautiful Bill Act"?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+The Republican budget's costs outweigh its benefits
+44%
+70%
+40%
+18%
+65%
+46%
+39%
+47%
+The Republican budget is lowering taxes for all Americans, no matter their
+income
+31
+12
+61
+17
+32
+35
+24
+Don't know enough to say
+25
+22
+48
+21
+17
+21
+26
+29
+Q24XB.
+Even if you don't agree with either side completely, which comes closer to your opinion when it comes to the Republican
+budget, or the "One Big Beautiful Bill Act"?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+The Republican budget doesn't benefit middle
+class Americans
+48%
+76%
+41%
+21%
+56%
+59%
+43%
+60%
+The Republican budget is lowering taxes for all Americans, no matter their
+income
+28
+20
+51
+21
+25
+32
+17
+Don't know enough to say
+24
+16
+39
+28
+24
+16
+25
+23
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+19
+39
+Changing topics...
+Q24.
+Below is a list of actions that some have taken to help save money or increase their income in the last year. Which of the fo
+llowing
+have you done in the last year or so, if any?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Going out less to restaurants, shows, movies, sporting events, or other
+activities
+52%
+56%
+48%
+49%
+41%
+54%
+53%
+53%
+Cutting coupons or shopping at discount grocery stores
+41
+43
+37
+39
+34
+43
+43
+40
+Being unable to add to savings or retirement accounts
+32
+38
+28
+26
+27
+33
+32
+29
+Cancelling subscriptions including cable or streaming services
+29
+31
+25
+28
+26
+33
+29
+30
+Taking on debt, including credit card debt
+26
+29
+24
+23
+22
+23
+28
+24
+Delaying or not making big purchases like a home or car
+25
+27
+25
+23
+19
+21
+27
+20
+Selling personal items online
+21
+23
+20
+19
+15
+28
+21
+21
+Withdrawing money from an emergency fund
+21
+24
+21
+17
+23
+24
+20
+16
+Delaying or deciding not to see a doctor
+15
+19
+20
+11
+15
+19
+15
+20
+Using buy now, pay later programs like Klarna
+15
+19
+11
+12
+18
+21
+15
+12
+Gambling or betting
+14
+15
+18
+13
+17
+16
+13
+15
+Taking a gig economy job (Uber, DoorDash, Taskrabbit, etc.\ for additional
+income
+13
+15
+14
+11
+19
+21
+11
+13
+Withdrawing money from a 401(k\ or other retirement fund
+10
+13
+15
+13
+13
+Selling blood plasma
+10
+10
+13
+Delaying or not pursuing higher education
+10
+13
+13
+10
+Delaying or not having kids/expanding your family
+...
+12
+10
+Have not done any of these
+17
+13
+17
+22
+16
+14
+18
+23
+Q25.
+Below is some information about the economy. Which of the following raise the most concerns for you, if any? You can select u
+p to
+four.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Grocery prices for things like coffee, ground beef, and orange juice are all up
+10
+20% or more in the last year
+53%
+56%
+61%
+47%
+53%
+54%
+54%
+42%
+Gas prices have risen to more than $4 per gallon nationwide in recent weeks
+49
+51
+46
+48
+45
+39
+50
+54
+Utility bills have gone up significantly over the past year
+36
+37
+38
+34
+38
+24
+36
+38
+Inflation cost families $1,600 last year alone and remains high
+35
+38
+39
+31
+34
+40
+36
+33
+Health insurance premiums have more than doubled, on average, for more
+than 20 million Americans who buy insurance on their own
+30
+35
+25
+25
+29
+31
+29
+38
+A record high number of people are dipping into their retirement savings to
+pay for their expenses, including monthly bills
+22
+24
+18
+21
+24
+25
+20
+24
+Some companies are laying off workers as they shift to artificial intelligence
+(AI\
+20
+21
+19
+19
+20
+22
+19
+28
+The U.S. has lost tens of thousands of jobs this year
+19
+23
+21
+14
+18
+19
+18
+26
+Credit card debt has hit record highs (over $1.1 trillion in 2025\
+17
+17
+14
+19
+18
+19
+17
+15
+The stock market has declined by nearly 10% in recent weeks
+13
+13
+15
+12
+19
+12
+22
+The economy grew only 0.7% in the last quarter of 2025, down from 4.4% in
+the previous quarter
+12
+13
+12
+11
+11
+12
+12
+15
+Consumer confidence, an indicator of how the public is feeling about the
+economy, remains near record lows
+12
+15
+12
+14
+12
+12
+None of these are concerning
+...
+12
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+20
+39
+Switching subjects...
+Q26A.
+Below is a list of people and things that some blame for the recent rise in gas prices. Which of the following do you blame
+the most, if any? You can select up to three.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+The war with Iran
+71%
+73%
+72%
+69%
+61%
+66%
+73%
+77%
+Trump and Republicans in Congress
+48
+76
+46
+19
+64
+57
+43
+53
+Oil and gas companies
+36
+34
+36
+37
+36
+34
+35
+32
+Insufficient oil and natural gas production
+19
+15
+19
+23
+16
+19
+20
+15
+Democrats in Congress
+15
+27
+13
+15
+17
+Seasonal changes like more people driving in the spring and summer
+....
+11
+11
+14
+11
+14
+14
+10
+15
+Environmental regulations
+10
+15
+11
+Don't blame any of these
+Don't know enough to say
+11
+Q26B.
+Who or what do you blame the most for the recent rise in
+gas prices, if anyone/anything?
+Q27C.
+And out of the following options, who do you blame most
+for the recent rise in gas prices?
+If
+you had to choose, just based on what you know, who do you blame most
+for the recent rise in gas prices?
+Democrats in Congress
+13%
+Lean Democrats in Congress
+....
+President Trump and Republicans in Congress
+55
+Lean President Trump and Republicans in Congress
+Do not blame either of these
+Blame both of these equally
+12
+Don't know enough to say
+DEMOCRATS IN CONGRESS (NET\
+16%
+PRESIDENT TRUMP AND REPUBLICANS IN
+CONGRESS (NET\
+60
+Q27D.
+And out of the following options, who do you blame most
+for the recent rise in gas prices?
+If
+you had to choose, just based on what you know, who do you blame most
+for the recent rise in gas prices?
+Democrats in Congress
+10%
+Lean Democrats in Congress
+....
+President Trump and Republicans in Congress
+because of the war with Iran
+58
+Lean President Trump and Republicans in Congress
+because of the war with Iran
+Do not blame either of these
+Blame both of these equally
+12
+Don't know enough to say
+DEMOCRATS IN CONGRESS (NET\
+12%
+PRESIDENT TRUMP AND REPUBLICANS IN
+CONGRESS BECAUSE OF WAR WITH IRAN (NET\
+64
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+21
+39
+Changing topics...
+Q29.
+Do you support or oppose birthright citizenship, which grants automatic U.S. citizenship to people born in the United States
+under
+the Constitution?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+44%
+65%
+45%
+22%
+49%
+56%
+39%
+64%
+Somewhat support
+23
+21
+20
+26
+26
+18
+25
+10
+Somewhat oppose
+11
+15
+16
+12
+Strongly oppose
+14
+26
+10
+13
+16
+11
+Not sure
+12
+SUPPORT (NET\
+68%
+86
+65
+49
+75
+74
+64
+74
+OPPOSE (NET\
+25
+22
+42
+18
+19
+28
+18
+Q30A.
+How much have you seen, read, or heard about Donald Trump's executive order limiting mail
+in voting?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+A lot
+22%
+23%
+21%
+22%
+23%
+22%
+23%
+18%
+Some
+32
+36
+19
+32
+30
+36
+31
+48
+A little
+23
+21
+21
+27
+25
+17
+24
+15
+Nothing
+22
+21
+39
+19
+22
+24
+22
+19
+A LOT/SOME (NET\
+54%
+59
+40
+54
+53
+58
+54
+66
+A LITTLE/NOTHING (NET\
+46
+41
+60
+46
+47
+42
+46
+34
+Q30B.
+in voting?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Very concerned
+30%
+54%
+28%
+7%
+42%
+38%
+26%
+38%
+Somewhat concerned
+21
+25
+21
+17
+30
+19
+19
+37
+Not that concerned
+14
+21
+19
+10
+14
+16
+Not at all concerned
+25
+12
+47
+21
+30
+11
+Don't know enough to say
+10
+17
+11
+10
+CONCERNED (NET\
+51%
+79
+49
+24
+72
+57
+45
+74
+NOT CONCERNED (NET\
+39
+14
+33
+66
+18
+35
+45
+18
+Switching subjects...
+Q30X.
+How much have you seen, read, or heard about the current partial federal government shutdown?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Feb
+23
+Feb
+01
+Nov
+09
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+A lot
+32%
+17%
+21%
+57%
+32%
+25%
+34%
+28%
+21%
+34%
+30%
+Some
+35
+44
+41
+30
+35
+31
+35
+35
+45
+33
+42
+A little
+22
+25
+24
+10
+22
+28
+21
+27
+21
+22
+18
+Nothing
+11
+14
+15
+10
+17
+10
+11
+13
+11
+10
+A LOT/SOME (NET\
+67%
+61
+62
+87
+68
+55
+68
+62
+66
+67
+72
+A LITTLE/NOTHING (NET\
+33
+39
+38
+13
+32
+45
+32
+38
+34
+33
+28
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+22
+39
+V1.
+Who do you blame most for the current partial shutdown of DHS
+(
+the
+Department of Homeland Security
+which is impacting agencies like the
+TSA
+(
+the Transportation Security Administration
+[IF NOT DEMOCRATS IN
+If you had to choose,
+just based on what you know, who do you blame most for the current
+partial shutdown of DHS
+(
+the Department of Homeland Security
+which is
+impacting agencies like the TSA
+(
+the Transportation Security
+Administration
+Democrats in Congress
+28%
+President Trump and Republicans in Congress
+44
+Do not blame either of these
+Blame both of these equally
+16
+DEMOCRATS IN CONGRESS WITH LEANERS (NET\
+31%
+PRESIDENT TRUMP AND REPUBLICANS IN
+CONGRESS WITH LEANERS (NET\
+48
+Changing topics...
+Q31.
+How much have you seen, read, or heard recently about prediction markets, such as Kalshi or Polymarket?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+A lot
+10%
+10%
+8%
+10%
+10%
+11%
+10%
+11%
+Some
+19
+21
+15
+19
+21
+21
+18
+27
+A little
+17
+15
+15
+20
+18
+16
+17
+18
+Nothing
+54
+54
+62
+51
+50
+52
+55
+44
+A LOT/SOME (NET\
+29%
+31
+24
+29
+31
+32
+28
+38
+A LITTLE/NOTHING (NET\
+71
+69
+76
+71
+69
+68
+72
+62
+B3.
+Below is a list of activities. Please indicate how frequently you have engaged in each one.
+FREQUENTLY/SOMETIMES
+RARELY/NEVER
+NET
+Frequently
+Sometimes
+Rarely
+Never
+FREQUENTLY/
+SOMETIMES
+RARELY/
+NEVER
+Online gambling, such as online casino games
+10%
+16
+13
+61
+26%
+74
+Latest Data by Party Dem
+7%
+15
+14
+64
+22%
+78
+Latest Data by Party Ind
+8%
+20
+63
+28%
+72
+Latest Data by Party Rep
+14%
+16
+12
+58
+30%
+70
+Latest Data by Race Afr Am
+12%
+24
+19
+45
+36%
+64
+Latest Data by Race Hisp
+14%
+23
+14
+49
+38%
+62
+Latest Data by Race White
+9%
+14
+12
+66
+23%
+77
+Latest Data by Race AAPI
+10%
+10
+70
+20%
+80
+Betting in
+person at a casino, racetrack, slot machine, or
+video poker terminal
+6%
+19
+24
+51
+25%
+75
+Latest Data by Party Dem
+5%
+19
+21
+55
+24%
+76
+Latest Data by Party Ind
+3%
+19
+23
+55
+22%
+78
+Latest Data by Party Rep
+7%
+20
+26
+47
+27%
+73
+Latest Data by Race Afr Am
+9%
+27
+19
+46
+35%
+65
+Latest Data by Race Hisp
+11%
+22
+19
+48
+33%
+67
+Latest Data by Race White
+5%
+17
+25
+53
+23%
+77
+Latest Data by Race AAPI
+3%
+14
+27
+55
+17%
+83
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+23
+39
+B3.
+Below is a list of activities. Please indicate how frequently you have engaged in each one.
+FREQUENTLY/SOMETIMES
+RARELY/NEVER
+NET
+Frequently
+Sometimes
+Rarely
+Never
+FREQUENTLY/
+SOMETIMES
+RARELY/
+NEVER
+Placing bets on sports online, through sites like DraftKings
+or FanDuel
+10%
+14
+11
+66
+23%
+77
+Latest Data by Party Dem
+8%
+14
+11
+67
+22%
+78
+Latest Data by Party Ind
+7%
+11
+12
+69
+18%
+82
+Latest Data by Party Rep
+13%
+14
+11
+63
+26%
+74
+Latest Data by Race Afr Am
+17%
+21
+12
+50
+38%
+62
+Latest Data by Race Hisp
+12%
+18
+11
+60
+30%
+70
+Latest Data by Race White
+9%
+11
+10
+70
+20%
+80
+Latest Data by Race AAPI
+5%
+10
+16
+69
+15%
+85
+Placing bets on prediction markets, through sites like
+Kalshi or Polymarket
+4%
+10
+77
+14%
+86
+Latest Data by Party Dem
+3%
+11
+10
+77
+14%
+86
+Latest Data by Party Ind
+3%
+11
+78
+11%
+89
+Latest Data by Party Rep
+6%
+76
+15%
+85
+Latest Data by Race Afr Am
+6%
+18
+15
+61
+25%
+75
+Latest Data by Race Hisp
+9%
+13
+14
+64
+23%
+77
+Latest Data by Race White
+4%
+81
+12%
+88
+Latest Data by Race AAPI
+3%
+12
+78
+10%
+90
+Q36.
+money based on the outcome of future events such as sports, elections, economic indicators, and other issues. Which of the fo
+llowing
+do you think should be the approach the federal government in Washington should take towards prediction markets?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Should be legal, and exist as they are today
+19%
+19%
+15%
+21%
+22%
+18%
+19%
+14%
+Should be legal, but with stronger regulation and oversight
+33
+35
+35
+30
+33
+47
+31
+38
+Should be illegal
+18
+19
+15
+19
+15
+12
+19
+23
+Don't know enough to say
+29
+27
+36
+29
+30
+22
+31
+24
+LEGAL (NET\
+52%
+54
+49
+52
+55
+65
+50
+52
+Q37A.
+There is a proposal in Congress to ban anyone from using prediction markets to bet on government actions like war,
+laws, and other actions. Do you support or oppose banning anyone from using prediction markets to bet on government actions l
+ike war,
+laws, and other actions?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+32%
+30%
+28%
+35%
+34%
+30%
+34%
+18%
+Somewhat support
+18
+17
+20
+18
+11
+22
+17
+26
+Somewhat oppose
+13
+13
+10
+15
+15
+10
+14
+Strongly oppose
+15
+15
+15
+14
+16
+16
+12
+28
+Not sure
+23
+25
+27
+19
+24
+23
+23
+18
+SUPPORT (NET\
+49%
+47
+48
+52
+45
+52
+51
+45
+OPPOSE (NET\
+28
+28
+24
+28
+31
+26
+26
+37
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+24
+39
+Q37B.
+There is a proposal to ban
+those with insider information
+so elected officials, their staff, and others with insider
+information
+from using prediction markets to bet on government actions like war, laws, and other actions. Do you support or oppose
+banning those with insider information from using prediction markets to bet on government actions like wars, laws, and other
+actions?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+53%
+58%
+45%
+50%
+34%
+41%
+59%
+60%
+Somewhat support
+14
+12
+17
+15
+18
+18
+13
+Somewhat oppose
+11
+16
+Strongly oppose
+10
+13
+19
+12
+11
+Not sure
+15
+12
+20
+18
+20
+12
+15
+13
+SUPPORT (NET\
+67%
+70
+62
+65
+52
+59
+72
+69
+OPPOSE (NET\
+18
+18
+18
+17
+28
+28
+13
+18
+Switching subjects...
+Q39.
+Do you support or oppose the U.S. taking military action against Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+22%
+24%
+14%
+6%
+9%
+43%
+10%
+18%
+26%
+11%
+Somewhat support
+18
+16
+20
+21
+27
+17
+17
+20
+12
+Somewhat oppose
+16
+17
+20
+21
+17
+11
+21
+16
+15
+15
+Strongly oppose
+34
+32
+28
+55
+37
+10
+40
+37
+30
+51
+Not sure
+10
+11
+19
+10
+15
+13
+12
+10
+SUPPORT (NET\
+40%
+40
+34
+14
+30
+71
+26
+35
+46
+23
+OPPOSE (NET\
+50
+49
+48
+77
+55
+22
+60
+53
+46
+66
+Q40.
+From what you know now, do you think the U.S. did the right thing or the wrong thing by taking military action against Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+The
+right
+thing
+feel this way strongly
+21%
+23%
+5%
+8%
+40%
+9%
+15%
+25%
+11%
+The
+right
+thing
+feel this way somewhat
+20
+20
+23
+31
+16
+19
+23
+11
+The
+wrong
+thing
+feel this way somewhat
+18
+18
+24
+21
+11
+26
+22
+15
+20
+The
+wrong
+thing
+feel this way strongly
+31
+29
+53
+30
+38
+31
+28
+48
+Not sure
+10
+10
+17
+11
+14
+10
+RIGHT THING (NET\
+41%
+43
+15
+32
+71
+25
+33
+48
+22
+WRONG THING (NET\
+49
+47
+77
+52
+20
+63
+53
+43
+69
+Q41.
+Do you think the U.S. military operation against Iran has made your family and community safer, less safe, or has it made no
+difference?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Much safer
+11%
+11%
+2%
+1%
+22%
+7%
+12%
+11%
+8%
+Somewhat safer
+10
+12
+16
+12
+11
+No difference
+34
+28
+28
+37
+40
+32
+29
+35
+32
+Somewhat less safe
+19
+19
+26
+24
+10
+20
+14
+19
+18
+Much less safe
+19
+22
+31
+20
+24
+23
+16
+27
+Not sure
+14
+10
+11
+SAFER (NET\
+20%
+23
+37
+15
+24
+22
+12
+LESS SAFE (NET\
+38
+41
+57
+44
+16
+44
+37
+36
+46
+Previous question text read: Do you support or oppose the U.S. conducting a military operation against Iran?
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+25
+39
+Q42A.
+How much longer do you think the U.S. involvement in the conflict with Iran will last?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+A few days
+1%
+1%
+1%
+1%
+2 weeks
+..
+11
+4 weeks
+..
+13
+10
+21
+11
+10
+14
+16
+3 months
+15
+14
+10
+15
+20
+11
+10
+16
+10
+11 months
+12
+14
+13
+11
+15
+12
+10
+About a year
+10
+12
+14
+More than a year
+19
+21
+25
+23
+12
+15
+20
+18
+31
+Don't know enough to say
+24
+29
+28
+32
+18
+32
+32
+23
+22
+LESS THAN THREE MONTHS
+35%
+53
+20
+24
+54
+28
+26
+39
+30
+MORE THAN THREE MONTHS
+40
+30
+51
+44
+28
+40
+43
+39
+49
+Q42B.
+How concerned are you that the U.S. will become bogged down in a prolonged conflict with Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Very concerned
+38%
+36%
+56%
+37%
+20%
+46%
+33%
+36%
+49%
+Somewhat concerned
+32
+31
+28
+38
+34
+26
+30
+33
+37
+Not that concerned
+14
+14
+12
+25
+14
+23
+14
+Not at all concerned
+12
+14
+10
+Not sure
+CONCERNED (NET\
+70%
+67
+84
+75
+54
+72
+64
+69
+87
+NOT CONCERNED (NET\
+23
+26
+10
+16
+38
+21
+29
+24
+Q43.
+Do you think Trump has a clear timeline and goals for the U.S. military operation against Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Yes, he has a clear timeline and goals
+feel this way strongly
+15%
+14%
+5%
+4%
+27%
+11%
+13%
+16%
+7%
+Yes, he has a clear timeline and goals
+feel this way somewhat
+17
+20
+14
+30
+11
+17
+19
+No, he does
+not
+have a clear timeline and goals
+feel this way
+somewhat
+..
+18
+18
+17
+21
+19
+21
+18
+18
+24
+No, he does
+not
+have a clear timeline and goals
+feel this way
+strongly
+37
+36
+63
+38
+11
+45
+37
+35
+50
+Not sure
+12
+13
+23
+13
+12
+15
+11
+14
+YES (NET\
+32%
+34
+11
+18
+58
+22
+30
+36
+12
+NO (NET\
+...
+56
+53
+81
+59
+30
+66
+55
+53
+73
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+26
+39
+Q44.
+Below is a list of terms that some have used to describe the U.S. military operation against Iran. Which of the following do
+you think
+best describe it, if any? You can select up to three.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Expensive
+..
+30%
+32%
+34%
+28%
+26%
+28%
+31%
+35%
+A war of choice, not necessity
+...
+29
+39
+28
+19
+32
+30
+27
+44
+Dangerous
+28
+34
+33
+20
+33
+31
+27
+30
+Unnecessary
+26
+42
+31
+32
+29
+24
+39
+Protecting America and our interests
+21
+12
+39
+11
+15
+25
+A distraction
+21
+32
+22
+10
+29
+27
+18
+29
+The wrong priority
+19
+25
+23
+11
+29
+21
+17
+13
+Necessary
+..
+17
+11
+32
+11
+20
+America first
+15
+27
+15
+15
+16
+Chaotic
+15
+18
+18
+11
+18
+15
+14
+17
+Illegal
+13
+23
+14
+16
+16
+12
+18
+Effective
+12
+22
+10
+14
+11
+The right priority
+12
+22
+12
+13
+None of these describe it
+Q45C.
+Do you support or oppose Congress providing an additional $200 billion for the U.S. military operation against Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+16%
+4%
+5%
+31%
+5%
+10%
+20%
+6%
+Somewhat support
+18
+16
+31
+11
+16
+19
+12
+Somewhat oppose
+16
+17
+14
+15
+22
+19
+15
+15
+Strongly oppose
+42
+68
+45
+15
+54
+45
+37
+62
+Not sure
+19
+10
+SUPPORT (NET\
+34%
+10
+22
+62
+15
+26
+39
+18
+OPPOSE (NET\
+58
+85
+60
+30
+76
+64
+52
+77
+Q45D.
+Do you support or oppose Congress cutting health care to provide an additional $200 billion for the U.S. military operation
+against Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+9%
+4%
+5%
+16%
+13%
+5%
+9%
+4%
+Somewhat support
+10
+18
+12
+16
+10
+Somewhat oppose
+14
+11
+14
+16
+12
+14
+20
+Strongly oppose
+56
+75
+67
+35
+60
+57
+56
+62
+Not sure
+10
+14
+10
+11
+10
+SUPPORT (NET\
+20%
+35
+25
+21
+19
+OPPOSE (NET\
+70
+85
+82
+51
+69
+69
+70
+82
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+27
+39
+Q46A.
+Do you support or oppose Trump deploying 7,000 troops to the Middle East as part of the U.S. military operation against
+Iran?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+13%
+1%
+7%
+26%
+5%
+8%
+15%
+14%
+Somewhat support
+19
+35
+12
+13
+22
+10
+Somewhat oppose
+13
+11
+22
+12
+12
+17
+13
+Strongly oppose
+46
+76
+48
+14
+68
+52
+40
+63
+Not sure
+16
+12
+11
+10
+SUPPORT (NET\
+32%
+15
+61
+17
+21
+37
+24
+OPPOSE (NET\
+59
+87
+69
+27
+80
+69
+53
+70
+Q46B.
+Do you support or oppose Trump sending troops into Iran for a ground war?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Strongly support
+12%
+2%
+6%
+23%
+6%
+11%
+14%
+2%
+Somewhat support
+15
+25
+19
+20
+15
+Somewhat oppose
+16
+13
+16
+20
+13
+17
+18
+Strongly oppose
+47
+71
+54
+21
+54
+43
+45
+72
+Not sure
+17
+11
+SUPPORT (NET\
+27%
+11
+12
+48
+24
+31
+28
+11
+OPPOSE (NET\
+64
+84
+71
+41
+66
+60
+63
+79
+Q47.
+Below are concerns some have about the recent U.S. military operation against Iran. Which of the following raise the most con
+cerns
+for you, if any? You can select up to three.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+It will raise oil and gas prices and hurt the global economy
+37%
+34%
+36%
+40%
+37%
+37%
+36%
+37%
+41%
+It is another conflict that will lead to billions being spent abroad
+instead of helping Americans at home
+34
+29
+37
+40
+29
+34
+33
+33
+42
+It puts U.S. troops unnecessarily in harm's way, with at least 13
+troops already killed
+31
+27
+37
+34
+24
+41
+33
+30
+29
+It has resulted in the deaths of innocent civilians, including children
+25
+27
+32
+30
+17
+31
+34
+23
+32
+It will lead to conflict spreading across the Middle East and around
+the world
+....
+22
+22
+26
+20
+17
+23
+24
+21
+34
+It will make the U.S. less safe because it will drag our country into
+another forever war
+21
+24
+26
+17
+16
+23
+26
+20
+15
+It was illegal because it was done without approval from Congress
+20
+19
+32
+18
+27
+21
+18
+18
+It means foreign powers like China and Russia may use this as
+justification for similar invasions elsewhere
+16
+20
+17
+17
+16
+19
+13
+16
+22
+It is not aligned with American values
+10
+10
+14
+15
+14
+10
+None of these are concerning
+...
+16
+18
+14
+28
+14
+19
+10
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+28
+39
+Changing topics...
+Q48A.
+Which side do you agree with more?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Those who say we should absolutely root out waste, fraud, and abuse in
+government and hold bad actors accountable. But, Medicaid, SNAP, and the
+Affordable Care Act help millions of people afford the basics. We should not
+be cutting these programs at a time when so many people are struggling with
+high costs
+..
+65%
+80%
+71%
+49%
+75%
+68%
+63%
+74%
+Those who say there is way too much waste, fraud, and abuse in government
+spending, and we need to cut back to reduce fraud and prevent out
+of
+control
+spending
+....
+35
+20
+29
+51
+25
+32
+37
+26
+Q48B.
+Which side do you agree with more?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Those who say Medicaid, SNAP, and the Affordable Care Act help millions of
+people afford the basics. We should not be cutting these programs at a time
+when so many people are struggling with high costs
+66%
+85%
+68%
+45%
+78%
+72%
+61%
+75%
+Those who say there is way too much waste, fraud, and abuse in government
+spending, and we need to cut back to reduce fraud and prevent out
+of
+control
+spending
+....
+34
+15
+32
+55
+22
+28
+39
+25
+Q49A.
+Which side do you agree with more?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Those who say there is way too much waste, fraud, and abuse in government
+spending, but so much of that comes from private companies hired by the
+federal government and people who cheat on their taxes, not the government
+itself
+41%
+53%
+41%
+30%
+41%
+42%
+41%
+47%
+Those who say there is way too much waste, fraud, and abuse in government
+spending, and we need to cut back to reduce fraud and prevent out
+of
+control
+spending
+....
+59
+47
+59
+70
+59
+58
+59
+53
+Q49B.
+Which side do you agree with more?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Those who say criticisms of waste, fraud, and abuse are a distraction
+Americans
+..
+42%
+60%
+40%
+24%
+56%
+60%
+36%
+51%
+Those who say there is way too much waste, fraud, and abuse in government
+spending, and we need to cut back to reduce fraud and prevent out
+of
+control
+spending
+....
+58
+40
+60
+76
+44
+40
+64
+49
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+29
+39
+Switching subjects...
+Q51C.
+Which side do you find more convincing?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Democrats who say because of Trump and Republicans, the average
+American could pay thousands more this year in costs because of tariffs and
+increased gas prices, which would wipe out any possible savings from the
+One Big Beautiful Bill
+47%
+79%
+47%
+15%
+65%
+64%
+40%
+64%
+Trump and Republicans who say the tax cuts in the One Big Beautiful Bill
+mean hardworking Americans will see bigger tax refunds this year, thanks to
+policies like no taxes on tips or overtime pay, and a $6,000 benefit for seniors
+on Social Security. These bigger refunds will make a real difference for
+families working hard to get by
+..
+40
+13
+22
+72
+26
+25
+46
+26
+Not sure
+13
+30
+13
+11
+14
+10
+Q51D.
+Which side do you find more convincing?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Democrats who say the One Big Beautiful Bill raises costs on middle class
+families instead of helping them. It cut programs people depend on, like
+Medicaid and SNAP, to pay for tax cuts for billionaires and big corporations,
+leaving millions unable to put food on the table or afford health care
+50%
+83%
+49%
+16%
+68%
+58%
+44%
+64%
+Trump and Republicans who say the tax cuts in the One Big Beautiful Bill
+mean hardworking Americans will see bigger tax refunds this year, thanks to
+policies like no taxes on tips or overtime pay, and a $6,000 benefit for seniors
+on Social Security. These bigger refunds will make a real difference for
+families working hard to get by
+..
+39
+10
+31
+71
+20
+34
+45
+27
+Not sure
+11
+20
+13
+12
+11
+Q52C.
+Which side do you find more convincing?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Democrats who say that this year, Republicans raised taxes on everyone
+except the ultra
+wealthy and enacted the highest tax increase on working
+Americans since 1982. Now, middle class families are paying up to $1,000
+more in taxes this year, while the richest 1% are receiving nearly $9,000 in tax
+breaks
+43%
+76%
+40%
+10%
+66%
+55%
+36%
+55%
+Trump and Republicans who say the tax cuts in the One Big Beautiful Bill
+mean hardworking Americans will see bigger tax refunds this year, thanks to
+policies like no taxes on tips or overtime pay, and a $6,000 benefit for seniors
+on Social Security. These bigger refunds will make a real difference for
+families working hard to get by
+..
+45
+14
+29
+80
+25
+29
+52
+38
+Not sure
+12
+10
+31
+10
+10
+16
+12
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+30
+39
+Q52D.
+Which side do you find more convincing?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Democrats who say nearly 90% of workers do not benefit from the One Big
+Beautiful Bill's new tax policies on overtime and tips. Many middle
+class
+people will still have to pay taxes on tips, overtime, and Social Security, but
+billionaires and big corporations are really getting a trillion dollars in new tax
+breaks
+48%
+82%
+47%
+14%
+69%
+54%
+42%
+65%
+Trump and Republicans who say the tax cuts in the One Big Beautiful Bill
+mean hardworking Americans will see bigger tax refunds this year, thanks to
+policies like no taxes on tips or overtime pay, and a $6,000 benefit for seniors
+on Social Security. These bigger refunds will make a real difference for
+families working hard to get by
+..
+41
+12
+33
+73
+21
+35
+46
+27
+Not sure
+11
+20
+13
+10
+11
+11
+For statistical purposes only, please answer the following questions.
+NEWSSOURCES.
+Thinking about the various sources of news available today, which of the following would you say are your main sources
+of news about politics and current events in the U.S.? Check all that apply.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Local television
+39%
+39%
+40%
+42%
+45%
+33%
+36%
+45%
+36%
+38%
+39%
+Broadcast television news (CBS, NBC, or
+ABC\
+39
+37
+37
+40
+45
+36
+34
+43
+36
+39
+39
+Social media websites where news is
+shared (such as Facebook, Twitter/X, or
+YouTube\
+...
+36
+39
+42
+39
+39
+32
+33
+42
+41
+34
+30
+Online news websites
+31
+30
+32
+34
+36
+33
+26
+29
+37
+31
+37
+Fox News
+...
+30
+31
+30
+28
+15
+22
+47
+29
+31
+32
+21
+CNN
+21
+23
+23
+26
+29
+16
+15
+27
+25
+19
+27
+Social media creators and influencers
+17
+18
+20
+22
+18
+18
+17
+23
+27
+15
+22
+Radio
+16
+16
+17
+16
+15
+18
+17
+17
+20
+15
+24
+Your local newspaper
+16
+16
+17
+16
+19
+14
+13
+15
+15
+16
+17
+Podcasts
+....
+15
+15
+16
+17
+14
+16
+16
+19
+19
+14
+14
+MSNBC/MS NOW
+13
+13
+13
+14
+21
+18
+15
+12
+16
+National newspapers
+12
+14
+12
+15
+14
+11
+14
+15
+11
+12
+Other
+politics and current events in the U.S.
+12
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+31
+39
+DNEWS.
+How often do you watch the following news channels?
+A FEW TIMES A WEEK OR MORE
+A FEW TIMES A MONTH OR
+LESS
+DK
+NET
+Several
+hours
+a day
+Once
+a day
+A few
+times a
+week
+A few
+times a
+month
+Rarely
+Never
+A FEW
+TIMES
+A WEEK OR
+MORE
+A FEW
+TIMES
+A MONTH OR
+LESS
+Fox News Channel
+10%
+14
+14
+13
+36
+38%
+56
+Mar
+16 2026
+11%
+13
+14
+14
+34
+38%
+55
+Feb
+23 2026
+9%
+13
+16
+13
+38
+38%
+57
+Feb
+01 2026
+9%
+14
+14
+14
+36
+37%
+57
+Latest Data by Party Dem
+5%
+10
+13
+13
+47
+28%
+67
+Latest Data by Party Ind
+5%
+11
+10
+11
+46
+10
+26%
+64
+Latest Data by Party Rep
+16%
+20
+16
+12
+22
+52%
+42
+Latest Data by Race Afr Am
+14%
+15
+17
+12
+11
+29
+45%
+51
+Latest Data by Race Hisp
+11%
+15
+18
+14
+28
+44%
+49
+Latest Data by Race White
+10%
+14
+13
+12
+39
+37%
+58
+Latest Data by Race AAPI
+8%
+14
+19
+29
+18
+30%
+52
+CNN
+6%
+10
+13
+18
+38
+29%
+64
+Mar
+16 2026
+6%
+11
+13
+17
+37
+30%
+62
+Feb
+23 2026
+5%
+11
+14
+17
+37
+30%
+62
+Feb
+01 2026
+6%
+11
+15
+17
+36
+32%
+61
+Latest Data by Party Dem
+9%
+11
+18
+12
+20
+25
+38%
+57
+Latest Data by Party Ind
+5%
+19
+43
+13
+20%
+67
+Latest Data by Party Rep
+4%
+16
+49
+22%
+71
+Latest Data by Race Afr Am
+17%
+10
+17
+17
+18
+19
+44%
+53
+Latest Data by Race Hisp
+10%
+14
+17
+12
+13
+29
+40%
+54
+Latest Data by Race White
+4%
+10
+11
+18
+44
+25%
+69
+Latest Data by Race AAPI
+9%
+10
+14
+20
+22
+18
+32%
+50
+MSNBC/MS NOW
+4%
+12
+16
+43
+25%
+66
+Mar
+16 2026
+5%
+12
+15
+43
+10
+26%
+64
+Feb
+23 2026
+4%
+13
+18
+41
+25%
+66
+Feb
+01 2026
+4%
+12
+18
+41
+25%
+65
+Latest Data by Party Dem
+6%
+11
+14
+10
+19
+31
+32%
+60
+Latest Data by Party Ind
+2%
+12
+51
+16
+17%
+67
+Latest Data by Party Rep
+3%
+10
+14
+53
+20%
+73
+Latest Data by Race Afr Am
+10%
+10
+15
+13
+18
+25
+35%
+56
+Latest Data by Race Hisp
+6%
+13
+18
+17
+31
+10
+37%
+54
+Latest Data by Race White
+3%
+10
+16
+49
+21%
+71
+Latest Data by Race AAPI
+5%
+11
+11
+17
+26
+21
+28%
+51
+YOUTUBEVIEWS.
+Approximately how often do you use YouTube?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Several times a day
+44%
+45%
+49%
+45%
+46%
+38%
+44%
+57%
+53%
+39%
+50%
+Once a day
+14
+15
+13
+14
+15
+13
+14
+17
+15
+17
+A few times a week
+19
+16
+17
+18
+20
+24
+17
+22
+13
+21
+16
+Once a week
+A few times a month
+Rarely
+Never
+ONCE A WEEK OR MORE (NET\
+81%
+79
+83
+81
+84
+79
+78
+90
+87
+78
+85
+A FEW TIMES A MONTH OR LESS (NET\
+19
+21
+17
+19
+16
+21
+22
+10
+13
+22
+15
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+32
+39
+LIVETVVIEWS.
+Approximately how often do you watch live TV with commercials? Please only include TV you watch live like sports, cable
+shows, or the news, and not TV that is recorded or where you can skip over commercials.
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Several times a day
+41%
+44%
+42%
+43%
+43%
+34%
+41%
+47%
+35%
+43%
+25%
+Once a day
+15
+15
+15
+15
+14
+10
+17
+14
+21
+14
+18
+A few times a week
+16
+16
+14
+16
+18
+13
+15
+20
+22
+14
+22
+Once a week
+A few times a month
+Rarely
+11
+10
+11
+11
+15
+11
+11
+22
+Never
+10
+11
+11
+17
+11
+11
+ONCE A WEEK OR MORE (NET\
+75%
+77
+74
+77
+77
+62
+76
+82
+81
+73
+67
+A FEW TIMES A MONTH OR LESS (NET\
+25
+23
+26
+23
+23
+38
+24
+18
+19
+27
+33
+TVVIEWST.
+And which of the following better describes how you watch live TV with commercials?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Traditional TV via cable, satellite, or antenna
+36%
+34%
+35%
+36%
+38%
+37%
+33%
+34%
+31%
+36%
+36%
+Streaming TV through your internet
+connection with a service like YouTube TV,
+Fubo, Sling, Hulu Live, or DirecTV Stream
+44
+44
+42
+42
+42
+36
+48
+46
+39
+43
+41
+Both of these
+11
+11
+12
+13
+12
+11
+15
+20
+10
+12
+VOL:
+(Does not watch live TV with commercials\
+10
+11
+11
+17
+11
+11
+TRADITIONAL TV/BOTH (NET\
+47%
+46
+46
+49
+50
+46
+44
+48
+51
+46
+48
+STREAMING TV/BOTH (NET\
+..
+55
+55
+54
+55
+53
+46
+58
+60
+60
+53
+53
+SOCMEDIAUSE.
+Do you have an account on any of the following platforms?
+Latest Data by Party
+Latest Data by Race
+Apr
+06
+Mar
+16
+Feb
+23
+Feb
+01
+Dem
+Ind
+Rep
+Afr Am
+Hisp
+White
+AAPI
+Facebook
+...
+78%
+78%
+83%
+80%
+76%
+79%
+81%
+69%
+70%
+81%
+75%
+Instagram
+...
+53
+53
+55
+54
+56
+51
+52
+65
+65
+49
+66
+TikTok
+43
+41
+45
+37
+48
+41
+38
+57
+62
+38
+42
+Twitter/X
+....
+29
+29
+30
+29
+27
+25
+32
+32
+29
+28
+37
+Snapchat
+...
+27
+25
+28
+25
+29
+31
+24
+28
+34
+25
+38
+Spotify
+27
+27
+29
+27
+27
+29
+26
+29
+39
+24
+38
+Reddit
+23
+21
+27
+24
+24
+25
+20
+18
+27
+22
+29
+WhatsApp
+..
+21
+24
+21
+20
+24
+22
+18
+30
+35
+17
+36
+Discord
+15
+14
+17
+16
+17
+17
+12
+14
+17
+14
+25
+Threads
+13
+15
+14
+12
+15
+11
+12
+20
+18
+11
+20
+Twitch
+11
+11
+12
+10
+13
+11
+14
+13
+22
+Bluesky
+Other
+I don't have an account on any of these
+platforms
+....
+10
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+33
+39
+SOCMEDIAFREQ.
+Over the last month, how frequently have you viewed your social media feeds on the following platform(s\
+A FEW TIMES A WEEK OR MORE
+A FEW TIMES A MONTH OR
+LESS
+Multiple
+times a day
+Once
+a day
+A few
+times a
+week
+A few
+times a
+month
+Rarely
+Never
+Facebook
+63%
+17
+11
+Mar
+16 2026
+59%
+21
+11
+Feb
+23 2026
+59%
+20
+12
+Feb
+01 2026
+63%
+17
+12
+Latest Data by Party Dem
+58%
+17
+15
+Latest Data by Party Ind
+60%
+18
+12
+Latest Data by Party Rep
+69%
+17
+Latest Data by Race Afr Am
+69%
+11
+13
+Latest Data by Race Hisp
+67%
+15
+Latest Data by Race White
+63%
+18
+11
+Latest Data by Race AAPI
+52%
+23
+19
+TikTok
+..
+54%
+17
+19
+Mar
+16 2026
+56%
+15
+18
+Feb
+23 2026
+54%
+15
+19
+Feb
+01 2026
+58%
+14
+15
+Latest Data by Party Dem
+50%
+19
+23
+Latest Data by Party Ind
+55%
+13
+18
+Latest Data by Party Rep
+58%
+17
+14
+Latest Data by Race Afr Am
+61%
+14
+17
+Latest Data by Race Hisp
+62%
+19
+11
+Latest Data by Race White
+53%
+16
+20
+Latest Data by Race AAPI
+37%
+27
+17
+10
+Instagram
+50%
+19
+17
+Mar
+16 2026
+48%
+20
+17
+Feb
+23 2026
+47%
+18
+20
+Feb
+01 2026
+49%
+19
+19
+Latest Data by Party Dem
+52%
+19
+18
+Latest Data by Party Ind
+46%
+20
+12
+13
+Latest Data by Party Rep
+47%
+20
+18
+Latest Data by Race Afr Am
+60%
+11
+17
+Latest Data by Race Hisp
+63%
+13
+Latest Data by Race White
+45%
+21
+19
+Latest Data by Race AAPI
+47%
+29
+17
+Twitter/X
+42%
+17
+20
+Mar
+16 2026
+42%
+21
+19
+Feb
+23 2026
+40%
+16
+22
+12
+Feb
+01 2026
+40%
+19
+20
+Latest Data by Party Dem
+37%
+18
+25
+Latest Data by Party Ind
+41%
+21
+21
+Latest Data by Party Rep
+46%
+19
+15
+10
+Latest Data by Race Afr Am
+40%
+11
+33
+10
+Latest Data by Race Hisp
+46%
+20
+21
+11
+Latest Data by Race White
+41%
+17
+18
+10
+11
+Latest Data by Race AAPI
+53%
+20
+13
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+34
+39
+SOCMEDIAFREQ.
+Over the last month, how frequently have you viewed your social media feeds on the following platform(s\
+A FEW TIMES A WEEK OR MORE
+A FEW TIMES A MONTH OR
+LESS
+Multiple
+times a day
+Once
+a day
+A few
+times a
+week
+A few
+times a
+month
+Rarely
+Never
+Snapchat
+42%
+22
+18
+Mar
+16 2026
+42%
+19
+19
+Feb
+23 2026
+41%
+21
+18
+Feb
+01 2026
+38%
+24
+18
+11
+Latest Data by Party Dem
+44%
+23
+17
+Latest Data by Party Ind
+45%
+16
+16
+Latest Data by Party Rep
+37%
+24
+19
+Latest Data by Race Afr Am
+50%
+19
+20
+Latest Data by Race Hisp
+49%
+19
+18
+Latest Data by Race White
+43%
+22
+18
+Latest Data by Race AAPI
+25%
+31
+10
+27
+Spotify
+..
+40%
+18
+24
+Mar
+16 2026
+40%
+18
+25
+Feb
+23 2026
+34%
+23
+24
+11
+Feb
+01 2026
+33%
+25
+22
+Latest Data by Party Dem
+46%
+17
+20
+Latest Data by Party Ind
+41%
+16
+19
+10
+Latest Data by Party Rep
+33%
+19
+30
+11
+Latest Data by Race Afr Am
+40%
+13
+25
+15
+Latest Data by Race Hisp
+47%
+18
+10
+15
+Latest Data by Race White
+38%
+17
+27
+Latest Data by Race AAPI
+40%
+22
+12
+16
+WhatsApp
+33%
+15
+23
+11
+13
+Mar
+16 2026
+30%
+13
+22
+14
+13
+Feb
+23 2026
+35%
+13
+18
+12
+15
+Feb
+01 2026
+29%
+18
+22
+11
+14
+Latest Data by Party Dem
+35%
+10
+24
+12
+13
+Latest Data by Party Ind
+16%
+21
+18
+10
+32
+Latest Data by Party Rep
+35%
+20
+24
+Latest Data by Race Afr Am
+42%
+10
+20
+15
+13
+Latest Data by Race Hisp
+41%
+21
+12
+12
+Latest Data by Race White
+29%
+14
+26
+11
+14
+Latest Data by Race AAPI
+35%
+16
+24
+13
+Reddit
+..
+30%
+20
+34
+12
+Mar
+16 2026
+32%
+22
+26
+12
+Feb
+23 2026
+26%
+20
+32
+14
+Feb
+01 2026
+33%
+20
+28
+13
+Latest Data by Party Dem
+29%
+24
+28
+15
+Latest Data by Party Ind
+30%
+18
+36
+Latest Data by Party Rep
+31%
+16
+40
+Latest Data by Race Afr Am
+28%
+20
+38
+12
+Latest Data by Race Hisp
+30%
+29
+31
+Latest Data by Race White
+29%
+16
+36
+12
+Latest Data by Race AAPI
+37%
+31
+13
+19
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+35
+39
+SOCMEDIAFREQ.
+Over the last month, how frequently have you viewed your social media feeds on the following platform(s\
+A FEW TIMES A WEEK OR MORE
+A FEW TIMES A MONTH OR
+LESS
+Multiple
+times a day
+Once
+a day
+A few
+times a
+week
+A few
+times a
+month
+Rarely
+Never
+Discord
+27%
+21
+24
+14
+11
+Mar
+16 2026
+38%
+15
+19
+15
+Feb
+23 2026
+30%
+18
+24
+11
+Feb
+01 2026
+28%
+13
+26
+17
+Latest Data by Party Dem
+33%
+22
+17
+14
+11
+Latest Data by Party Ind
+27%
+22
+20
+18
+12
+Latest Data by Party Rep
+20%
+19
+34
+13
+10
+Latest Data by Race Afr Am
+28%
+20
+31
+12
+Latest Data by Race Hisp
+60%
+22
+Latest Data by Race White
+19%
+19
+28
+17
+13
+Latest Data by Race AAPI
+44%
+32
+11
+Threads
+24%
+19
+30
+14
+11
+Mar
+16 2026
+29%
+23
+25
+15
+Feb
+23 2026
+27%
+17
+29
+19
+Feb
+01 2026
+30%
+25
+23
+11
+Latest Data by Party Dem
+21%
+23
+34
+14
+Latest Data by Party Ind
+50%
+16
+12
+Latest Data by Party Rep
+22%
+18
+32
+16
+12
+Latest Data by Race Afr Am
+22%
+14
+43
+12
+Latest Data by Race Hisp
+31%
+17
+24
+24
+Latest Data by Race White
+22%
+20
+28
+20
+11
+Latest Data by Race AAPI
+33%
+29
+26
+Bluesky
+22%
+20
+21
+16
+14
+Mar
+16 2026
+27%
+13
+25
+18
+14
+Feb
+23 2026
+20%
+19
+20
+23
+13
+Feb
+01 2026
+14%
+15
+25
+20
+22
+Latest Data by Party Dem
+17%
+25
+18
+20
+12
+Latest Data by Party Ind
+22%
+53
+25
+Latest Data by Party Rep
+40%
+24
+25
+Latest Data by Race Afr Am
+21%
+18
+22
+15
+16
+Latest Data by Race Hisp
+33%
+18
+19
+16
+Latest Data by Race White
+21%
+22
+25
+21
+12
+Latest Data by Race AAPI
+24
+70
+Twitch
+..
+20%
+17
+30
+16
+14
+Mar
+16 2026
+23%
+19
+26
+12
+14
+Feb
+23 2026
+20%
+17
+25
+23
+11
+Feb
+01 2026
+16%
+20
+26
+19
+13
+Latest Data by Party Dem
+21%
+23
+30
+15
+Latest Data by Party Ind
+4%
+37
+15
+39
+Latest Data by Party Rep
+24%
+12
+27
+17
+15
+Latest Data by Race Afr Am
+23%
+25
+27
+15
+Latest Data by Race Hisp
+40%
+18
+16
+12
+12
+Latest Data by Race White
+18%
+31
+20
+17
+Latest Data by Race AAPI
+18%
+38
+34
+D100.
+Are you:
+A man
+47%
+A woman
+....
+53
+Self
+describe
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+36
+39
+ALLOCRACE.
+To ensure a representative sample, please indicate your
+race.
+For statistical purposes only, are you of
+Hispanic, Latino, or Spanish origin?
+[BI
+OR
+MULTI RACIAL RESPONDENTS
+ALLOCATED TO MULTIPLE RACES, PER SELF
+REPORT; REFUSALS ALLOCATED
+Black/African American
+14%
+White/Caucasian
+76
+Hispanic/Latino
+11
+Asian/Asian American
+Pacific Islander
+Native American/American Indian/Indigenous
+Middle Eastern/North African
+...
+Other
+VOL:
+(Don't know/Refused\
+D303.
+Hispanics and Latinos have their roots in many
+different countries. To what country or countries do you or your family
+trace your ancestry? Please select all that apply.
+Mexico
+58%
+Puerto Rico
+20
+Cuba
+Argentina
+...
+Belize
+Bolivia
+Brazil
+Chile
+Colombia
+...
+Costa Rica
+Dominican Republic
+Ecuador
+El Salvador
+Guatemala
+Honduras
+...
+Nicaragua
+..
+Panama
+Paraguay
+...
+Peru
+Spain
+Uruguay
+Venezuela
+..
+Other country
+Don't know/Not sure
+D304.
+People in America of African descent
+have their roots in many different regions of the world. To what region of
+the world do you or your family trace your ancestry? Please select all that
+apply.
+The Caribbean
+11%
+Africa
+45
+Central America
+South America
+Another region of the world
+Don't know/Not sure
+26
+D305.
+Asian Americans,
+Asians, and Pacific Islanders have their roots in many different countries.
+To what country or countries do you or your family trace your ancestry?
+Please select all that apply.
+China
+28%
+India
+14
+Philippines
+19
+Vietnam
+Korea
+Japan
+13
+Pacific Islands
+10
+Other
+Don't know/Not sure
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+37
+39
+EDUCATION.
+What is the last grade of school or level of education you
+completed?
+Did not complete high school
+....
+3%
+Graduated high school
+26
+Attended technical or vocational school
+Attended some college but no degree
+20
+Graduated two
+year college with Associate's degree
+12
+Graduated four
+year college with Bachelor's degree
+24
+Obtained Master's, PhD, or other professional degree
+(MD, DMD, etc.\
+DAGE.
+What is your age?
+18
+29
+16%
+30
+44
+25
+45
+54
+15
+55
+64
+16
+65+
+28
+REGION.
+What state do you live in?
+Northeast
+...
+18%
+Midwest
+22
+South
+39
+West
+22
+PASTVOTEHISTORY.
+In thinking about how you have voted in elections
+since 2020, including for federal, state, and local offices, would you say
+that you:
+Always voted for Democrats
+27%
+Mostly voted for Democrats
+14
+Voted more for Democrats, but have voted for some
+Republicans
+Voted for an even split of Democrats and Republicans
+Voted more for Republicans, but have voted for some
+Democrats
+Mostly voted for Republicans
+....
+11
+Always voted for Republicans
+...
+25
+DEMOCRATS (NET\
+48%
+REPUBLICANS (NET\
+44
+VH24.
+Thinking back, in the November 2024
+general election for President, who did you vote for? Or did you not vote in
+that election?
+Voted for Democrat Kamala Harris
+44%
+Voted for Republican Donald Trump
+46
+Voted for someone else
+Did not vote
+ALLOCATED HARRIS
+45%
+ALLOCATED TRUMP
+46
+LABORHH.
+Are you or is anyone in your household an active or retired
+member of a labor union?
+Yes, me
+9%
+Yes, someone in my household
+Yes, both me and someone in my household
+No
+85
+YES (NET\
+15%
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+38
+39
+WORKTYPE.
+Which of the following best describes your current job or the
+last job you had:
+White collar, like at a desk in an office
+39%
+Blue collar, like physical labor or working in a factory
+27
+Service industry, like working in a retail store or
+hospital
+16
+Other type of job or field
+Do not work or have not worked in the past
+12
+MILITARY.
+Are you or is anyone in your household a veteran, active
+military, or in the National Guard or Reserves?
+Yes, me
+7%
+Yes, someone in my household
+Yes, both me and someone in my household
+No
+85
+YES (NET\
+15%
+INCOME.
+And, for statistical purposes only, what would you say is your total
+annual family income before taxes?
+Less than $30,000
+28%
+$30,000
+$49,999
+21
+$50,000
+$59,999
+11
+$60,000
+$74,999
+11
+$75,000
+$99,999
+12
+$100,000
+$149,999
+10
+$150,000
+$199,999
+$200,000 and above
+MARITAL.
+What is your current marital/relationship status?
+Married
+35%
+Widowed
+....
+Divorced
+....
+17
+Separated
+..
+Never married but in a relationship
+14
+Never married and single
+25
+HOME.
+Which one(s\ applicable to you right now?
+Homeowner
+51%
+Renter
+37
+Living with others without paying rent or mortgage
+...
+Living with others, paying rent or mortgage
+Other
+D110.
+Are you a parent or guardian?
+Yes, of someone under 18
+24%
+Yes, of someone 18 or older
+32
+No
+48
+YES (NET\
+52%
+IDEOLOGYSR.
+When it comes to politics, do you generally think of yourself
+as:
+Very liberal
+15%
+Somewhat liberal
+14
+Moderate
+...
+37
+Somewhat conservative
+17
+Very conservative
+17
+LIBERAL (NET\
+29%
+CONSERVATIVE (NET\
+34
+Global Strategy Group
+49734 April 1 Navigator 2026
+Page
+39
+39
+IDEOREP.
+And when it comes to politics, do you generally
+consider yourself to be a supporter of the MAGA movement, or not?
+Yes, consider myself a supporter of the MAGA
+movement
+..
+54%
+No, do not consider myself a supporter of the MAGA
+movement
+..
+38
+Not sure
+ECONSELFDESCRIBE.
+Would you use any of the following terms to describe
+yourself? You may select as many as you like.
+Wealthy
+2%
+Upper middle class
+10
+Middle class
+33
+Working class
+23
+Lower middle class
+17
+Low income
+21
+Poor
+11
+None of these describe me
+EMPLOY.
+What is your current employment status as of right now?
+Employed full
+time
+43%
+Employed part
+time
+11
+Not employed, but looking for work
+Retired
+27
+Student
+Homemaker
+Other
+EMPLOYSELF.
+And are you self
+employed or an independent
+contractor?
+Self
+employed/independent contractor
+31%
+Not self
+employed/independent contractor
+69
+RELIGION.
+What is your religious background?
+Protestant/Christian
+47%
+Catholic
+20
+Jewish
+Muslim
+None/Atheist/Agnostic
+21
+Other
+EVANGELICAL.
+Do you
+consider yourself a born
+again or evangelical Christian?
+Yes
+44%
+No
+56
+RELIGFREQ.
+When it comes to attending religious services, do you attend
+every week, a few times a month, about once a month, a few times a year,
+rarely, or never?
+Every week
+23%
+A few times a month
+10
+About once a month
+A few times a year
+12
+Rarely
+22
+Never
+29
+LGBTQPLUS.
+Do you consider yourself to be any of the following? Select all
+that apply.
+Heterosexual or straight
+89%
+Bisexual
+Gay or lesbian
+Transgender
+Non
+binary
+Other
+Prefer not to say
