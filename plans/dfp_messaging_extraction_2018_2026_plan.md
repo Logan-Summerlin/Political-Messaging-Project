@@ -324,13 +324,74 @@ Phase 4 is implemented in `scripts/resolve_dfp_topline_support.py` as a determin
 python scripts/resolve_dfp_topline_support.py   --input data/processed/dfp_messaging_toplines_2018_2026.csv   --html-root data/raw/dataforprogress/html   --out data/processed/dfp_messaging_toplines_2018_2026_resolved.csv   --audit-out data/processed/dfp_messaging_toplines_2018_2026_binding_audit.csv
 ```
 
-### Phase 5 — QA + Dedup + Merge
-1. Validate ranges (`0–100`), parse dates, and de-duplicate repeated findings.
-2. Compare against existing DFP rows in `issues.csv` and `dfp_new_issues.csv`.
-3. Mark `data_quality` as:
-   - `structured_poll` when wording+% linkage is explicit,
-   - `narrative_finding` otherwise.
-4. Human-review queue for low-confidence rows.
+### Phase 5 — QA + Dedup + Merge (IMPLEMENTATION COMPLETE)
+Phase 5 is implemented in `scripts/audit_dfp_toplines.py` as a deterministic post-Phase-4 quality, deduplication, and merge-prep pass.
+
+#### 5.1 Inputs and Outputs
+**Primary input:** `data/processed/dfp_messaging_toplines_2018_2026_resolved.csv` from Phase 4.
+
+**Comparison inputs:** canonical issue files:
+- `data/processed/issues.csv`
+- `data/raw/dataforprogress/dfp_new_issues.csv`
+
+**Outputs:**
+- `data/processed/dfp_messaging_toplines_2018_2026_qc.csv` (validated + deduped toplines)
+- `data/processed/dfp_messaging_toplines_2018_2026_duplicates.csv` (suppressed duplicate rows)
+- `data/processed/dfp_messaging_toplines_2018_2026_review_queue.csv` (human-review queue)
+- `data/processed/dfp_messaging_toplines_2018_2026_merge_candidates.csv` (non-overlapping candidates)
+- `data/processed/dfp_messaging_toplines_2018_2026_qa_report.csv` (summary metrics)
+
+#### 5.2 Validation Rules
+Per-row QA checks are applied before deduplication:
+1. `value_pct` numeric and bounded in `[0,100]`; otherwise `needs_review=true`, `review_reason=invalid_value_range`.
+2. `publish_date` must parse as ISO date `YYYY-MM-DD`; otherwise `review_reason=invalid_publish_date`.
+3. Missing/blank `question_or_message_text` is flagged `review_reason=missing_question_text`.
+4. `row_id` is recomputed from `source_url|question_text_norm|metric_type|value_pct` to ensure deterministic identity.
+
+#### 5.3 Data Quality Labeling
+Each row receives `data_quality`:
+- `structured_poll` when question text is explicit and metric/value are interpretable (`support`, `oppose`, favorability, agreement, concern, salience).
+- `narrative_finding` for ambiguous or non-standard narrative claims.
+
+#### 5.4 Deterministic Dedup Strategy
+Duplicate key: (`source_url`, `question_text_norm`, `metric_type`, `value_pct`).
+
+When duplicates occur, keep exactly one winner using deterministic rank order:
+1. highest `confidence_score`
+2. `needs_review=false` preferred
+3. longer `question_or_message_text` as final tiebreaker
+
+Rows are labeled:
+- `dedupe_status=kept`
+- `dedupe_status=dropped_duplicate` (written to duplicates output)
+
+#### 5.5 Merge Candidate Comparison
+Deduped rows are compared against existing DFP issue rows by normalized:
+- source/url field
+- wording/question text field
+
+Rows with a match are labeled `existing_overlap=true`; unmatched rows are emitted as merge candidates (`existing_overlap=false`) for controlled canonical integration.
+
+#### 5.6 Review Queue Construction
+Rows are routed to review when any of the following are true:
+- `needs_review=true` from prior phases
+- QA validation failures (range/date/text)
+- unresolved/ambiguous metric categorization (`narrative_finding` may be sampled for review)
+
+#### 5.7 Coverage and Integrity Metrics
+`qa_report.csv` includes at minimum:
+- input row count
+- deduped row count
+- duplicate row count
+- review queue count
+- structured_poll row count
+- valid value/date counts
+- merge candidate count
+
+#### 5.8 CLI Contract for `scripts/audit_dfp_toplines.py`
+```bash
+python scripts/audit_dfp_toplines.py   --input data/processed/dfp_messaging_toplines_2018_2026_resolved.csv   --issues data/processed/issues.csv   --dfp-new-issues data/raw/dataforprogress/dfp_new_issues.csv   --out data/processed/dfp_messaging_toplines_2018_2026_qc.csv   --duplicates-out data/processed/dfp_messaging_toplines_2018_2026_duplicates.csv   --review-out data/processed/dfp_messaging_toplines_2018_2026_review_queue.csv   --merge-candidates-out data/processed/dfp_messaging_toplines_2018_2026_merge_candidates.csv   --report-out data/processed/dfp_messaging_toplines_2018_2026_qa_report.csv
+```
 
 ### Phase 6 — Final Outputs
 1. Produce DFP-specific output tables:
