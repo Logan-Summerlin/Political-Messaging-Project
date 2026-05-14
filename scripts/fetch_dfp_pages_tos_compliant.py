@@ -69,7 +69,7 @@ def should_fetch_row(row):
         in_window = "2018-01-01" <= d <= "2026-12-31"
     except Exception:
         return False
-    cls_ok = c in {"poll_messaging", "unknown", "polling_or_messaging"}
+    cls_ok = c in {"poll_messaging", "unknown", "polling_or_messaging", "polling_messaging_brief"}
     if "non_poll" in c or "commentary" in c or "horserace" in c:
         cls_ok = False
     return in_window and cls_ok
